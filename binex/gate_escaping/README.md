@@ -5,5 +5,7 @@
 **Author(s)**: `lepnoxic`
 
 **Description**:
+
 The challenge is a sequel to Gate Keeping, it is recommended to go solve it first.
+
 I finally reached the sign that had information about the gates, it wrote "there is `/flag` file outside, go read it :)" ...... weird

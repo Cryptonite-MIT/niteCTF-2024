@@ -4,7 +4,7 @@ Since it's an anode display so 0 means the segment is on
 
 And with convention the segments are in `gfedcba` format
 
-so when you decode it
+Upon decoding:
 
 ```
 ancient_ahh_display
@@ -80,4 +80,4 @@ endmodule
 
 There are the pins that are relevant so ignore all other pins.
 
-after mapping those 5 bit inputs to 7 bit of the display you get the flag.
+After mapping those 5 bit inputs to 7 bit of the display you get the flag.

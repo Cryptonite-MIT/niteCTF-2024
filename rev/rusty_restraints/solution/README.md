@@ -85,7 +85,7 @@ The decrypted values are brought into conditional statements which we know is fo
 
 Some values in a constraint are straight of initialized to a single decrypted value which make it easier to get the other which involve this value.
 
-So after getting all the constraints, you can write a z3 script as shown below to get the flag
+So after getting all the constraints, you can write a z3 script as shown below to get the flag:
 
 ```py
 from z3 import *

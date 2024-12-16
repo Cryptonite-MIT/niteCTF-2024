@@ -1,4 +1,4 @@
-## CHARLIE MESSAGES
+## Charlie Hunt 3
 
 **Flag**: `nite{ch4rl13_7h4nk5_y0u}`
 

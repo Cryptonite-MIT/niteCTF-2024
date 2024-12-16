@@ -1,4 +1,4 @@
-## hook_the_world
+## Hook The World
 
 **Flag**: `nite{A_p1RaT35_fr33D0m_aNd_ho0k_kn0W5_n0_BoUnd}`
 
