@@ -133,6 +133,6 @@ else:
     print("No solution found")
 ```
 
-A smarter approach would be to just debug and see how things are working, you can straight of get all the decrypted values without going through the hassle of making a decryption script. I was wondering if this could be angred. Who knows
+A smarter approach would be to just debug and see how things are working, you can straight off get all the decrypted values without going through the hassle of making a decryption script. I was wondering if this could be angred. Who knows
 
 The flag - `nite{chi11_ru5t_f3rric0xid3}`
