@@ -1,0 +1,5874 @@
+{
+    "standings": [
+        {
+            "pos": 1,
+            "team": "bi0s",
+            "score": 9204
+        },
+        {
+            "pos": 2,
+            "team": "EXE.1sior",
+            "score": 8639
+        },
+        {
+            "pos": 3,
+            "team": "BITSkrieg",
+            "score": 8611
+        },
+        {
+            "pos": 4,
+            "team": "valgrind",
+            "score": 8592
+        },
+        {
+            "pos": 5,
+            "team": "Squid Proxy Lovers",
+            "score": 8257
+        },
+        {
+            "pos": 6,
+            "team": "World Wide Flags",
+            "score": 5916
+        },
+        {
+            "pos": 7,
+            "team": "Emu Exploit",
+            "score": 5643
+        },
+        {
+            "pos": 8,
+            "team": "PlayingG0d",
+            "score": 4580
+        },
+        {
+            "pos": 9,
+            "team": "MindCrafters",
+            "score": 3478
+        },
+        {
+            "pos": 10,
+            "team": "15h",
+            "score": 3429
+        },
+        {
+            "pos": 11,
+            "team": "Pwn4s0n1c",
+            "score": 3193
+        },
+        {
+            "pos": 12,
+            "team": "TOP PROGRAMMER 2005 DATABASE MAESTRO",
+            "score": 3177
+        },
+        {
+            "pos": 13,
+            "team": "TBG",
+            "score": 3162
+        },
+        {
+            "pos": 14,
+            "team": ">$ 5ol0",
+            "score": 2801
+        },
+        {
+            "pos": 15,
+            "team": "EHAX",
+            "score": 2245
+        },
+        {
+            "pos": 16,
+            "team": "PwnSec",
+            "score": 2093
+        },
+        {
+            "pos": 17,
+            "team": "Payatu Bandits",
+            "score": 2085
+        },
+        {
+            "pos": 18,
+            "team": "> r0/dev/null",
+            "score": 1964
+        },
+        {
+            "pos": 19,
+            "team": "Hash Bash",
+            "score": 1942
+        },
+        {
+            "pos": 20,
+            "team": "hAOckers_TV",
+            "score": 1908
+        },
+        {
+            "pos": 21,
+            "team": "Hack@Sec",
+            "score": 1874
+        },
+        {
+            "pos": 22,
+            "team": "TamilCTF",
+            "score": 1874
+        },
+        {
+            "pos": 23,
+            "team": "Del0n1x",
+            "score": 1728
+        },
+        {
+            "pos": 24,
+            "team": "BIXOH",
+            "score": 1720
+        },
+        {
+            "pos": 25,
+            "team": "PBR | UCLA",
+            "score": 1717
+        },
+        {
+            "pos": 26,
+            "team": "0xfun",
+            "score": 1663
+        },
+        {
+            "pos": 27,
+            "team": "pinkerblack",
+            "score": 1653
+        },
+        {
+            "pos": 28,
+            "team": "koskason",
+            "score": 1635
+        },
+        {
+            "pos": 29,
+            "team": "SoloPope",
+            "score": 1635
+        },
+        {
+            "pos": 30,
+            "team": "placeholders",
+            "score": 1616
+        },
+        {
+            "pos": 31,
+            "team": "Mayas",
+            "score": 1464
+        },
+        {
+            "pos": 32,
+            "team": "junior double triple whopper",
+            "score": 1411
+        },
+        {
+            "pos": 33,
+            "team": "okcomputer",
+            "score": 1384
+        },
+        {
+            "pos": 34,
+            "team": "DaVinciCode",
+            "score": 1377
+        },
+        {
+            "pos": 35,
+            "team": "Wade",
+            "score": 1299
+        },
+        {
+            "pos": 36,
+            "team": "pwndering",
+            "score": 1299
+        },
+        {
+            "pos": 37,
+            "team": "M0NST3RDECK",
+            "score": 1269
+        },
+        {
+            "pos": 38,
+            "team": "milworms",
+            "score": 1223
+        },
+        {
+            "pos": 39,
+            "team": "0b10 steps ahead",
+            "score": 1220
+        },
+        {
+            "pos": 40,
+            "team": "_inTheShell",
+            "score": 1214
+        },
+        {
+            "pos": 41,
+            "team": "Singapore Students Merger",
+            "score": 1157
+        },
+        {
+            "pos": 42,
+            "team": "\u0295 \u2022\u1d25\u2022\u0294",
+            "score": 1144
+        },
+        {
+            "pos": 43,
+            "team": "Lorem Ipsec",
+            "score": 1140
+        },
+        {
+            "pos": 44,
+            "team": "chill guys",
+            "score": 1107
+        },
+        {
+            "pos": 45,
+            "team": "Lights of Pineapples",
+            "score": 1057
+        },
+        {
+            "pos": 46,
+            "team": "Hacklabor",
+            "score": 1053
+        },
+        {
+            "pos": 47,
+            "team": "Gopher",
+            "score": 1021
+        },
+        {
+            "pos": 48,
+            "team": "0xE0F",
+            "score": 1014
+        },
+        {
+            "pos": 49,
+            "team": "totskie",
+            "score": 949
+        },
+        {
+            "pos": 50,
+            "team": "duks",
+            "score": 938
+        },
+        {
+            "pos": 51,
+            "team": "c0raline",
+            "score": 936
+        },
+        {
+            "pos": 52,
+            "team": "BinaryBears",
+            "score": 879
+        },
+        {
+            "pos": 53,
+            "team": "wgpsec",
+            "score": 870
+        },
+        {
+            "pos": 54,
+            "team": "IITBreachers",
+            "score": 865
+        },
+        {
+            "pos": 55,
+            "team": "\u7720\u308c\u306a\u3044\u5730\u9d8f\u306e\u9aa8",
+            "score": 848
+        },
+        {
+            "pos": 56,
+            "team": "TCP1P",
+            "score": 841
+        },
+        {
+            "pos": 57,
+            "team": "\u6b63\u89c4\u5b50\u7fa4",
+            "score": 835
+        },
+        {
+            "pos": 58,
+            "team": "Cicada",
+            "score": 828
+        },
+        {
+            "pos": 59,
+            "team": "bi0sblr",
+            "score": 826
+        },
+        {
+            "pos": 60,
+            "team": "Team kahan",
+            "score": 825
+        },
+        {
+            "pos": 61,
+            "team": "griddy grimaldo",
+            "score": 824
+        },
+        {
+            "pos": 62,
+            "team": "DeezNATs",
+            "score": 800
+        },
+        {
+            "pos": 63,
+            "team": "Imagine Losing :(",
+            "score": 798
+        },
+        {
+            "pos": 64,
+            "team": "L0stAx3s",
+            "score": 773
+        },
+        {
+            "pos": 65,
+            "team": "HyperSpectrum",
+            "score": 741
+        },
+        {
+            "pos": 66,
+            "team": "CryptoHeads",
+            "score": 737
+        },
+        {
+            "pos": 67,
+            "team": "xoxo",
+            "score": 729
+        },
+        {
+            "pos": 68,
+            "team": "Kauotic Hacking Club",
+            "score": 722
+        },
+        {
+            "pos": 69,
+            "team": "st0p_cyb3rbu11ying",
+            "score": 718
+        },
+        {
+            "pos": 70,
+            "team": "Keshehainu Yeladim",
+            "score": 691
+        },
+        {
+            "pos": 71,
+            "team": "HUTTSS",
+            "score": 687
+        },
+        {
+            "pos": 72,
+            "team": "Omega",
+            "score": 677
+        },
+        {
+            "pos": 73,
+            "team": "Bit&Byte",
+            "score": 637
+        },
+        {
+            "pos": 74,
+            "team": "HCST",
+            "score": 626
+        },
+        {
+            "pos": 75,
+            "team": "JSoyke",
+            "score": 623
+        },
+        {
+            "pos": 76,
+            "team": "superman",
+            "score": 616
+        },
+        {
+            "pos": 77,
+            "team": "scuwn",
+            "score": 608
+        },
+        {
+            "pos": 78,
+            "team": "1nf1n1ty",
+            "score": 551
+        },
+        {
+            "pos": 79,
+            "team": "RealHackHive",
+            "score": 531
+        },
+        {
+            "pos": 80,
+            "team": "delta_force",
+            "score": 531
+        },
+        {
+            "pos": 81,
+            "team": "P4wnStars",
+            "score": 517
+        },
+        {
+            "pos": 82,
+            "team": "Ex0rcists",
+            "score": 517
+        },
+        {
+            "pos": 83,
+            "team": "Filaha",
+            "score": 513
+        },
+        {
+            "pos": 84,
+            "team": "T[0]",
+            "score": 513
+        },
+        {
+            "pos": 85,
+            "team": "\u9e2d\u9e2d\u7fbd\u7ed2\u670d",
+            "score": 505
+        },
+        {
+            "pos": 86,
+            "team": "rice cooker",
+            "score": 503
+        },
+        {
+            "pos": 87,
+            "team": "Pookie Bears",
+            "score": 495
+        },
+        {
+            "pos": 88,
+            "team": "6o6ikSS",
+            "score": 491
+        },
+        {
+            "pos": 89,
+            "team": "DSGS4T",
+            "score": 477
+        },
+        {
+            "pos": 90,
+            "team": "SoloBox",
+            "score": 474
+        },
+        {
+            "pos": 91,
+            "team": "Allu bhai fanclub",
+            "score": 471
+        },
+        {
+            "pos": 92,
+            "team": "ADMinions",
+            "score": 468
+        },
+        {
+            "pos": 93,
+            "team": "hok4lc",
+            "score": 468
+        },
+        {
+            "pos": 94,
+            "team": "WeAre",
+            "score": 467
+        },
+        {
+            "pos": 95,
+            "team": "H4xor_Hunters",
+            "score": 467
+        },
+        {
+            "pos": 96,
+            "team": "Nabla",
+            "score": 457
+        },
+        {
+            "pos": 97,
+            "team": "VxPx",
+            "score": 451
+        },
+        {
+            "pos": 98,
+            "team": "malagasyhacker",
+            "score": 451
+        },
+        {
+            "pos": 99,
+            "team": "Nova",
+            "score": 446
+        },
+        {
+            "pos": 100,
+            "team": "k",
+            "score": 438
+        },
+        {
+            "pos": 101,
+            "team": "DAE",
+            "score": 427
+        },
+        {
+            "pos": 102,
+            "team": "pregnant maltese taxpayers",
+            "score": 426
+        },
+        {
+            "pos": 103,
+            "team": "EvilBunnyWrote",
+            "score": 412
+        },
+        {
+            "pos": 104,
+            "team": "rajat_vats_6461",
+            "score": 411
+        },
+        {
+            "pos": 105,
+            "team": "MIST_Pwn$t4r5",
+            "score": 401
+        },
+        {
+            "pos": 106,
+            "team": "AAA",
+            "score": 387
+        },
+        {
+            "pos": 107,
+            "team": "OKHACK",
+            "score": 381
+        },
+        {
+            "pos": 108,
+            "team": "LH104729",
+            "score": 371
+        },
+        {
+            "pos": 109,
+            "team": "Oc",
+            "score": 371
+        },
+        {
+            "pos": 110,
+            "team": "Magpies",
+            "score": 363
+        },
+        {
+            "pos": 111,
+            "team": "GettingyourHACKlesup",
+            "score": 358
+        },
+        {
+            "pos": 112,
+            "team": "111111111111",
+            "score": 344
+        },
+        {
+            "pos": 113,
+            "team": "Huntik",
+            "score": 342
+        },
+        {
+            "pos": 114,
+            "team": "TheB-Team",
+            "score": 336
+        },
+        {
+            "pos": 115,
+            "team": "salad_var",
+            "score": 336
+        },
+        {
+            "pos": 116,
+            "team": "cuduiq",
+            "score": 336
+        },
+        {
+            "pos": 117,
+            "team": "NCA@Nepal",
+            "score": 329
+        },
+        {
+            "pos": 118,
+            "team": "mahhesshh",
+            "score": 326
+        },
+        {
+            "pos": 119,
+            "team": "FlagClub",
+            "score": 326
+        },
+        {
+            "pos": 120,
+            "team": "pippo",
+            "score": 324
+        },
+        {
+            "pos": 121,
+            "team": "cyber<space>",
+            "score": 324
+        },
+        {
+            "pos": 122,
+            "team": "cstjean",
+            "score": 315
+        },
+        {
+            "pos": 123,
+            "team": "CicadaSeekers",
+            "score": 301
+        },
+        {
+            "pos": 124,
+            "team": "bsdfgdfgsdfgs",
+            "score": 291
+        },
+        {
+            "pos": 125,
+            "team": "kryptos",
+            "score": 282
+        },
+        {
+            "pos": 126,
+            "team": "CACHE ME IF YOU CAN",
+            "score": 281
+        },
+        {
+            "pos": 127,
+            "team": "ssh@uzl",
+            "score": 281
+        },
+        {
+            "pos": 128,
+            "team": "Octobits",
+            "score": 274
+        },
+        {
+            "pos": 129,
+            "team": "team",
+            "score": 274
+        },
+        {
+            "pos": 130,
+            "team": "gfh45hrte",
+            "score": 263
+        },
+        {
+            "pos": 131,
+            "team": "nendo",
+            "score": 263
+        },
+        {
+            "pos": 132,
+            "team": "kossiitkgp",
+            "score": 260
+        },
+        {
+            "pos": 133,
+            "team": "3ahat",
+            "score": 260
+        },
+        {
+            "pos": 134,
+            "team": "NightShiftEnjoyers",
+            "score": 255
+        },
+        {
+            "pos": 135,
+            "team": "Caff3in3-DB",
+            "score": 255
+        },
+        {
+            "pos": 136,
+            "team": "coldboots",
+            "score": 254
+        },
+        {
+            "pos": 137,
+            "team": "what321",
+            "score": 242
+        },
+        {
+            "pos": 138,
+            "team": "D4ck3n",
+            "score": 241
+        },
+        {
+            "pos": 139,
+            "team": "DBWRA",
+            "score": 237
+        },
+        {
+            "pos": 140,
+            "team": "TEAM TURTUS",
+            "score": 237
+        },
+        {
+            "pos": 141,
+            "team": "Garwin",
+            "score": 231
+        },
+        {
+            "pos": 142,
+            "team": "RUET_CyberSontrashi",
+            "score": 231
+        },
+        {
+            "pos": 143,
+            "team": "cheese",
+            "score": 231
+        },
+        {
+            "pos": 144,
+            "team": "Netrunners",
+            "score": 231
+        },
+        {
+            "pos": 145,
+            "team": "Rounding Error",
+            "score": 227
+        },
+        {
+            "pos": 146,
+            "team": "aaazzz",
+            "score": 227
+        },
+        {
+            "pos": 147,
+            "team": "thefwncrew",
+            "score": 227
+        },
+        {
+            "pos": 148,
+            "team": "tacocat",
+            "score": 227
+        },
+        {
+            "pos": 149,
+            "team": "418->We_are_a_TeapoT",
+            "score": 215
+        },
+        {
+            "pos": 150,
+            "team": "Cipher22",
+            "score": 213
+        },
+        {
+            "pos": 151,
+            "team": "Backtrackers",
+            "score": 210
+        },
+        {
+            "pos": 152,
+            "team": "L33t H4xors",
+            "score": 210
+        },
+        {
+            "pos": 153,
+            "team": "RedSn1perTeam",
+            "score": 210
+        },
+        {
+            "pos": 154,
+            "team": "idle_bpm",
+            "score": 210
+        },
+        {
+            "pos": 155,
+            "team": "Bakery",
+            "score": 210
+        },
+        {
+            "pos": 156,
+            "team": "Pwn hub",
+            "score": 210
+        },
+        {
+            "pos": 157,
+            "team": "ilovectf",
+            "score": 210
+        },
+        {
+            "pos": 158,
+            "team": "lets_all_love_x86",
+            "score": 205
+        },
+        {
+            "pos": 159,
+            "team": "CYBER & CHILL",
+            "score": 205
+        },
+        {
+            "pos": 160,
+            "team": "glixth",
+            "score": 187
+        },
+        {
+            "pos": 161,
+            "team": "NEX",
+            "score": 187
+        },
+        {
+            "pos": 162,
+            "team": "Ninth House",
+            "score": 187
+        },
+        {
+            "pos": 163,
+            "team": "BINGO",
+            "score": 181
+        },
+        {
+            "pos": 164,
+            "team": "OSAM_z3r0day",
+            "score": 181
+        },
+        {
+            "pos": 165,
+            "team": "42069",
+            "score": 181
+        },
+        {
+            "pos": 166,
+            "team": "Knight",
+            "score": 181
+        },
+        {
+            "pos": 167,
+            "team": "TFS",
+            "score": 181
+        },
+        {
+            "pos": 168,
+            "team": "LOn2W0lf",
+            "score": 181
+        },
+        {
+            "pos": 169,
+            "team": "Teknites",
+            "score": 165
+        },
+        {
+            "pos": 170,
+            "team": "CatCommandos",
+            "score": 163
+        },
+        {
+            "pos": 171,
+            "team": "PL314D3S",
+            "score": 163
+        },
+        {
+            "pos": 172,
+            "team": "Goodwill Mischief",
+            "score": 160
+        },
+        {
+            "pos": 173,
+            "team": "CTRL-MATT-DEF34T",
+            "score": 160
+        },
+        {
+            "pos": 174,
+            "team": "Partenaires Particuliers",
+            "score": 160
+        },
+        {
+            "pos": 175,
+            "team": "Cysec",
+            "score": 160
+        },
+        {
+            "pos": 176,
+            "team": "EdRo",
+            "score": 160
+        },
+        {
+            "pos": 177,
+            "team": "fsoci4ty",
+            "score": 160
+        },
+        {
+            "pos": 178,
+            "team": "Ireland Without the RE",
+            "score": 160
+        },
+        {
+            "pos": 179,
+            "team": "Catocalypse",
+            "score": 160
+        },
+        {
+            "pos": 180,
+            "team": "ALATOO",
+            "score": 160
+        },
+        {
+            "pos": 181,
+            "team": "\u4f8d",
+            "score": 160
+        },
+        {
+            "pos": 182,
+            "team": "Team Shinigami",
+            "score": 160
+        },
+        {
+            "pos": 183,
+            "team": "F$0CI3TY",
+            "score": 155
+        },
+        {
+            "pos": 184,
+            "team": "SealScript8",
+            "score": 151
+        },
+        {
+            "pos": 185,
+            "team": "yodak",
+            "score": 151
+        },
+        {
+            "pos": 186,
+            "team": "0xL4ugh - Free Palestine",
+            "score": 137
+        },
+        {
+            "pos": 187,
+            "team": "YR",
+            "score": 137
+        },
+        {
+            "pos": 188,
+            "team": "TPC",
+            "score": 137
+        },
+        {
+            "pos": 189,
+            "team": "BKISC",
+            "score": 137
+        },
+        {
+            "pos": 190,
+            "team": "Men In Binary",
+            "score": 131
+        },
+        {
+            "pos": 191,
+            "team": "TF",
+            "score": 131
+        },
+        {
+            "pos": 192,
+            "team": "Uknow",
+            "score": 131
+        },
+        {
+            "pos": 193,
+            "team": "0xDACA",
+            "score": 131
+        },
+        {
+            "pos": 194,
+            "team": "Flag Dedo Plij",
+            "score": 131
+        },
+        {
+            "pos": 195,
+            "team": "Kikuri'sbeerpacket",
+            "score": 131
+        },
+        {
+            "pos": 196,
+            "team": "NYUSEC",
+            "score": 131
+        },
+        {
+            "pos": 197,
+            "team": "M4yb3",
+            "score": 131
+        },
+        {
+            "pos": 198,
+            "team": "code robbers",
+            "score": 131
+        },
+        {
+            "pos": 199,
+            "team": "dotori",
+            "score": 131
+        },
+        {
+            "pos": 200,
+            "team": "src=#",
+            "score": 131
+        },
+        {
+            "pos": 201,
+            "team": "ctrl+win",
+            "score": 131
+        },
+        {
+            "pos": 202,
+            "team": "Cappa",
+            "score": 131
+        },
+        {
+            "pos": 203,
+            "team": "CyberCh1ck",
+            "score": 115
+        },
+        {
+            "pos": 204,
+            "team": "BlitzHack",
+            "score": 113
+        },
+        {
+            "pos": 205,
+            "team": "fsoc-amyglan",
+            "score": 113
+        },
+        {
+            "pos": 206,
+            "team": "SIGAN",
+            "score": 113
+        },
+        {
+            "pos": 207,
+            "team": "suica",
+            "score": 113
+        },
+        {
+            "pos": 208,
+            "team": "Los Pollos Hermanos",
+            "score": 110
+        },
+        {
+            "pos": 209,
+            "team": "Python In My Backend",
+            "score": 110
+        },
+        {
+            "pos": 210,
+            "team": "B1n3X9lo1t_N17K",
+            "score": 110
+        },
+        {
+            "pos": 211,
+            "team": "Mittwald",
+            "score": 110
+        },
+        {
+            "pos": 212,
+            "team": "arachnid",
+            "score": 110
+        },
+        {
+            "pos": 213,
+            "team": "keva",
+            "score": 110
+        },
+        {
+            "pos": 214,
+            "team": "Schrodinger Bears",
+            "score": 110
+        },
+        {
+            "pos": 215,
+            "team": "Blue",
+            "score": 110
+        },
+        {
+            "pos": 216,
+            "team": "!VitiansC",
+            "score": 110
+        },
+        {
+            "pos": 217,
+            "team": "DFS",
+            "score": 110
+        },
+        {
+            "pos": 218,
+            "team": "FourToOne",
+            "score": 110
+        },
+        {
+            "pos": 219,
+            "team": "byte-me",
+            "score": 110
+        },
+        {
+            "pos": 220,
+            "team": "0xB8000",
+            "score": 110
+        },
+        {
+            "pos": 221,
+            "team": "Swen",
+            "score": 110
+        },
+        {
+            "pos": 222,
+            "team": "Paolo",
+            "score": 110
+        },
+        {
+            "pos": 223,
+            "team": "Stormtroopers",
+            "score": 110
+        },
+        {
+            "pos": 224,
+            "team": "AMOGUS",
+            "score": 110
+        },
+        {
+            "pos": 225,
+            "team": "USTC-NEBULA",
+            "score": 110
+        },
+        {
+            "pos": 226,
+            "team": "P2P Academy",
+            "score": 110
+        },
+        {
+            "pos": 227,
+            "team": "0xSoBad",
+            "score": 110
+        },
+        {
+            "pos": 228,
+            "team": "t3kn0isn0td3aD",
+            "score": 110
+        },
+        {
+            "pos": 229,
+            "team": "BinaryNinjas",
+            "score": 110
+        },
+        {
+            "pos": 230,
+            "team": "kerandoman",
+            "score": 110
+        },
+        {
+            "pos": 231,
+            "team": "Joanne",
+            "score": 110
+        },
+        {
+            "pos": 232,
+            "team": "admin123",
+            "score": 110
+        },
+        {
+            "pos": 233,
+            "team": "Cyber Gods",
+            "score": 110
+        },
+        {
+            "pos": 234,
+            "team": "ChillGuyz",
+            "score": 110
+        },
+        {
+            "pos": 235,
+            "team": "ByteC4ts",
+            "score": 110
+        },
+        {
+            "pos": 236,
+            "team": "Espionage",
+            "score": 110
+        },
+        {
+            "pos": 237,
+            "team": "ROn00bs",
+            "score": 110
+        },
+        {
+            "pos": 238,
+            "team": "SuperNormal",
+            "score": 110
+        },
+        {
+            "pos": 239,
+            "team": "JoJoBaOil",
+            "score": 110
+        },
+        {
+            "pos": 240,
+            "team": "Melancholy",
+            "score": 110
+        },
+        {
+            "pos": 241,
+            "team": "NOTTEAM",
+            "score": 110
+        },
+        {
+            "pos": 242,
+            "team": "Seul-tout",
+            "score": 110
+        },
+        {
+            "pos": 243,
+            "team": "ebinl33th4x0rm4n5",
+            "score": 110
+        },
+        {
+            "pos": 244,
+            "team": "K0xFF_BM7TU",
+            "score": 110
+        },
+        {
+            "pos": 245,
+            "team": "carbonara",
+            "score": 110
+        },
+        {
+            "pos": 246,
+            "team": "GhostDog",
+            "score": 110
+        },
+        {
+            "pos": 247,
+            "team": "Hackafon",
+            "score": 110
+        },
+        {
+            "pos": 248,
+            "team": "Engineers Spark",
+            "score": 110
+        },
+        {
+            "pos": 249,
+            "team": "sweetbees",
+            "score": 110
+        },
+        {
+            "pos": 250,
+            "team": "PackOfWolves",
+            "score": 110
+        },
+        {
+            "pos": 251,
+            "team": "noraneco",
+            "score": 110
+        },
+        {
+            "pos": 252,
+            "team": "high",
+            "score": 110
+        },
+        {
+            "pos": 253,
+            "team": "NeverToRizz",
+            "score": 110
+        },
+        {
+            "pos": 254,
+            "team": "Team Overlord",
+            "score": 110
+        },
+        {
+            "pos": 255,
+            "team": "Zachem est' kapusty esli est' kartoshki.",
+            "score": 105
+        },
+        {
+            "pos": 256,
+            "team": "pesu_ctf",
+            "score": 87
+        },
+        {
+            "pos": 257,
+            "team": "vj21",
+            "score": 81
+        },
+        {
+            "pos": 258,
+            "team": "crafter",
+            "score": 81
+        },
+        {
+            "pos": 259,
+            "team": "OrangeMangoLemon",
+            "score": 81
+        },
+        {
+            "pos": 260,
+            "team": "t3st",
+            "score": 63
+        },
+        {
+            "pos": 261,
+            "team": "Love&April",
+            "score": 63
+        },
+        {
+            "pos": 262,
+            "team": "No module name",
+            "score": 63
+        },
+        {
+            "pos": 263,
+            "team": "p3qch",
+            "score": 63
+        },
+        {
+            "pos": 264,
+            "team": "negress",
+            "score": 63
+        },
+        {
+            "pos": 265,
+            "team": "ozflare",
+            "score": 63
+        },
+        {
+            "pos": 266,
+            "team": "CryJackLee",
+            "score": 63
+        },
+        {
+            "pos": 267,
+            "team": "Flag Transfer Protocol",
+            "score": 60
+        },
+        {
+            "pos": 268,
+            "team": "hello",
+            "score": 60
+        },
+        {
+            "pos": 269,
+            "team": "KITKAT",
+            "score": 60
+        },
+        {
+            "pos": 270,
+            "team": "The Cryptic Crew",
+            "score": 60
+        },
+        {
+            "pos": 271,
+            "team": "dotMatrix",
+            "score": 60
+        },
+        {
+            "pos": 272,
+            "team": "hihi...",
+            "score": 60
+        },
+        {
+            "pos": 273,
+            "team": "VNITNetSHELL",
+            "score": 60
+        },
+        {
+            "pos": 274,
+            "team": "Aliens",
+            "score": 60
+        },
+        {
+            "pos": 275,
+            "team": "Kitoboicbl",
+            "score": 60
+        },
+        {
+            "pos": 276,
+            "team": "youtiaos",
+            "score": 60
+        },
+        {
+            "pos": 277,
+            "team": "Shellskapsresan",
+            "score": 60
+        },
+        {
+            "pos": 278,
+            "team": "SNI",
+            "score": 60
+        },
+        {
+            "pos": 279,
+            "team": "e",
+            "score": 60
+        },
+        {
+            "pos": 280,
+            "team": "nickbourbaki",
+            "score": 60
+        },
+        {
+            "pos": 281,
+            "team": "Saudi",
+            "score": 60
+        },
+        {
+            "pos": 282,
+            "team": "Code_Butchers",
+            "score": 60
+        },
+        {
+            "pos": 283,
+            "team": "H4CK_077",
+            "score": 60
+        },
+        {
+            "pos": 284,
+            "team": "Kukko ja Paalit",
+            "score": 60
+        },
+        {
+            "pos": 285,
+            "team": "ctfreaks",
+            "score": 60
+        },
+        {
+            "pos": 286,
+            "team": "Ch4kr4vyuh",
+            "score": 60
+        },
+        {
+            "pos": 287,
+            "team": "0xNuecht",
+            "score": 60
+        },
+        {
+            "pos": 288,
+            "team": "The Nothing Team",
+            "score": 60
+        },
+        {
+            "pos": 289,
+            "team": "p0pk1",
+            "score": 60
+        },
+        {
+            "pos": 290,
+            "team": "NullBorn",
+            "score": 60
+        },
+        {
+            "pos": 291,
+            "team": "Just Enjoy",
+            "score": 60
+        },
+        {
+            "pos": 292,
+            "team": "CyberCellVIIT",
+            "score": 60
+        },
+        {
+            "pos": 293,
+            "team": "Fresh warriors",
+            "score": 60
+        },
+        {
+            "pos": 294,
+            "team": "Cicada Haux",
+            "score": 60
+        },
+        {
+            "pos": 295,
+            "team": "hotcocoa",
+            "score": 60
+        },
+        {
+            "pos": 296,
+            "team": "CryptoCraps",
+            "score": 60
+        },
+        {
+            "pos": 297,
+            "team": "Escape-Team",
+            "score": 60
+        },
+        {
+            "pos": 298,
+            "team": "Xertz",
+            "score": 60
+        },
+        {
+            "pos": 299,
+            "team": "CaveiraGamingHD",
+            "score": 60
+        },
+        {
+            "pos": 300,
+            "team": "4C3-5457R4",
+            "score": 60
+        },
+        {
+            "pos": 301,
+            "team": "nekonyaa",
+            "score": 60
+        },
+        {
+            "pos": 302,
+            "team": "UExploitNards",
+            "score": 60
+        },
+        {
+            "pos": 303,
+            "team": "thejuggler",
+            "score": 60
+        },
+        {
+            "pos": 304,
+            "team": "D4r3D3vil",
+            "score": 60
+        },
+        {
+            "pos": 305,
+            "team": "Contagious",
+            "score": 60
+        },
+        {
+            "pos": 306,
+            "team": "WAAAGH!",
+            "score": 60
+        },
+        {
+            "pos": 307,
+            "team": "Apocalypse",
+            "score": 60
+        },
+        {
+            "pos": 308,
+            "team": "Wired Ghost",
+            "score": 60
+        },
+        {
+            "pos": 309,
+            "team": "Random",
+            "score": 60
+        },
+        {
+            "pos": 310,
+            "team": "trex-1",
+            "score": 60
+        },
+        {
+            "pos": 311,
+            "team": "Singletons",
+            "score": 60
+        },
+        {
+            "pos": 312,
+            "team": "Shshkomal",
+            "score": 60
+        },
+        {
+            "pos": 313,
+            "team": "DU_Featherless_Bipeds",
+            "score": 60
+        },
+        {
+            "pos": 314,
+            "team": "hoder",
+            "score": 60
+        },
+        {
+            "pos": 315,
+            "team": "solup",
+            "score": 60
+        },
+        {
+            "pos": 316,
+            "team": "Kaal Bhairav",
+            "score": 60
+        },
+        {
+            "pos": 317,
+            "team": "Krako",
+            "score": 60
+        },
+        {
+            "pos": 318,
+            "team": "P4WNs",
+            "score": 60
+        },
+        {
+            "pos": 319,
+            "team": "YCF",
+            "score": 60
+        },
+        {
+            "pos": 320,
+            "team": "Setraki",
+            "score": 60
+        },
+        {
+            "pos": 321,
+            "team": "AllWeNeedIsFLAG",
+            "score": 60
+        },
+        {
+            "pos": 322,
+            "team": "C0l1n3 du Cr4ck",
+            "score": 60
+        },
+        {
+            "pos": 323,
+            "team": "Nation State Actor",
+            "score": 60
+        },
+        {
+            "pos": 324,
+            "team": "2222222222222222222222",
+            "score": 60
+        },
+        {
+            "pos": 325,
+            "team": "xtea418",
+            "score": 60
+        },
+        {
+            "pos": 326,
+            "team": "$pwn_cat",
+            "score": 60
+        },
+        {
+            "pos": 327,
+            "team": "n0ty0ur5",
+            "score": 60
+        },
+        {
+            "pos": 328,
+            "team": "commitcreds",
+            "score": 60
+        },
+        {
+            "pos": 329,
+            "team": "TEamNAme",
+            "score": 60
+        },
+        {
+            "pos": 330,
+            "team": "CyberUNiT",
+            "score": 60
+        },
+        {
+            "pos": 331,
+            "team": "Assassin's",
+            "score": 60
+        },
+        {
+            "pos": 332,
+            "team": "RE&BO",
+            "score": 60
+        },
+        {
+            "pos": 333,
+            "team": "SU",
+            "score": 60
+        },
+        {
+            "pos": 334,
+            "team": "elliptic_garden",
+            "score": 60
+        },
+        {
+            "pos": 335,
+            "team": "0xSec",
+            "score": 60
+        },
+        {
+            "pos": 336,
+            "team": "hamayanhamayan",
+            "score": 60
+        },
+        {
+            "pos": 337,
+            "team": "Pwnus",
+            "score": 60
+        },
+        {
+            "pos": 338,
+            "team": "Manatee",
+            "score": 60
+        },
+        {
+            "pos": 339,
+            "team": "Grumpy",
+            "score": 60
+        },
+        {
+            "pos": 340,
+            "team": "vanatka",
+            "score": 60
+        },
+        {
+            "pos": 341,
+            "team": "mu5k3733r5",
+            "score": 60
+        },
+        {
+            "pos": 342,
+            "team": "DDONG1004",
+            "score": 60
+        },
+        {
+            "pos": 343,
+            "team": "labupump",
+            "score": 60
+        },
+        {
+            "pos": 344,
+            "team": "silly team",
+            "score": 60
+        },
+        {
+            "pos": 345,
+            "team": "Blizzard",
+            "score": 60
+        },
+        {
+            "pos": 346,
+            "team": "hoodbech",
+            "score": 60
+        },
+        {
+            "pos": 347,
+            "team": "Integrated Hawkers",
+            "score": 60
+        },
+        {
+            "pos": 348,
+            "team": "derpspears",
+            "score": 60
+        },
+        {
+            "pos": 349,
+            "team": "newTeam",
+            "score": 60
+        },
+        {
+            "pos": 350,
+            "team": "CShell",
+            "score": 60
+        },
+        {
+            "pos": 351,
+            "team": "test1337",
+            "score": 60
+        },
+        {
+            "pos": 352,
+            "team": "ctr_c+ctr_v",
+            "score": 60
+        },
+        {
+            "pos": 353,
+            "team": "n00b/s",
+            "score": 60
+        },
+        {
+            "pos": 354,
+            "team": "Cyber0ids",
+            "score": 60
+        },
+        {
+            "pos": 355,
+            "team": "mangekyou_cipher",
+            "score": 60
+        },
+        {
+            "pos": 356,
+            "team": "DaishoSec",
+            "score": 60
+        },
+        {
+            "pos": 357,
+            "team": "MhaRowMai",
+            "score": 60
+        },
+        {
+            "pos": 358,
+            "team": "BackBenchers",
+            "score": 60
+        },
+        {
+            "pos": 359,
+            "team": "ppjj",
+            "score": 60
+        },
+        {
+            "pos": 360,
+            "team": "my_team_45789",
+            "score": 60
+        },
+        {
+            "pos": 361,
+            "team": "ByteMe",
+            "score": 60
+        },
+        {
+            "pos": 362,
+            "team": "Dialloftw",
+            "score": 60
+        },
+        {
+            "pos": 363,
+            "team": "0xdeada1u5",
+            "score": 60
+        },
+        {
+            "pos": 364,
+            "team": "exitzero",
+            "score": 60
+        },
+        {
+            "pos": 365,
+            "team": "DIG174L",
+            "score": 60
+        },
+        {
+            "pos": 366,
+            "team": "Sleeping Forest",
+            "score": 60
+        },
+        {
+            "pos": 367,
+            "team": "CodeMonks",
+            "score": 60
+        },
+        {
+            "pos": 368,
+            "team": "GroovyStars",
+            "score": 60
+        },
+        {
+            "pos": 369,
+            "team": "d0n7_c@r3",
+            "score": 60
+        },
+        {
+            "pos": 370,
+            "team": "HACKER RUKO",
+            "score": 60
+        },
+        {
+            "pos": 371,
+            "team": "GhostSquad",
+            "score": 60
+        },
+        {
+            "pos": 372,
+            "team": "Anshiscooked",
+            "score": 60
+        },
+        {
+            "pos": 373,
+            "team": "Tinfoil Hats",
+            "score": 60
+        },
+        {
+            "pos": 374,
+            "team": "N0_SIGNAL",
+            "score": 60
+        },
+        {
+            "pos": 375,
+            "team": "dark0rs3",
+            "score": 60
+        },
+        {
+            "pos": 376,
+            "team": "brainless% speedrunners",
+            "score": 60
+        },
+        {
+            "pos": 377,
+            "team": "2600 Rookies",
+            "score": 60
+        },
+        {
+            "pos": 378,
+            "team": "RtKal1",
+            "score": 60
+        },
+        {
+            "pos": 379,
+            "team": "afterdark",
+            "score": 60
+        },
+        {
+            "pos": 380,
+            "team": "vaktibabat",
+            "score": 60
+        },
+        {
+            "pos": 381,
+            "team": "WindTeam",
+            "score": 60
+        },
+        {
+            "pos": 382,
+            "team": "ben10",
+            "score": 60
+        },
+        {
+            "pos": 383,
+            "team": "/tmp/red",
+            "score": 60
+        },
+        {
+            "pos": 384,
+            "team": "unknown.ai",
+            "score": 60
+        },
+        {
+            "pos": 385,
+            "team": "lost3er",
+            "score": 60
+        },
+        {
+            "pos": 386,
+            "team": "sk2024",
+            "score": 60
+        },
+        {
+            "pos": 387,
+            "team": "hackenheimer",
+            "score": 60
+        },
+        {
+            "pos": 388,
+            "team": "niteriders",
+            "score": 60
+        },
+        {
+            "pos": 389,
+            "team": "p4k",
+            "score": 60
+        },
+        {
+            "pos": 390,
+            "team": "Listerine",
+            "score": 60
+        },
+        {
+            "pos": 391,
+            "team": "Powerpuff Girls",
+            "score": 60
+        },
+        {
+            "pos": 392,
+            "team": "3r0th3r CC",
+            "score": 60
+        },
+        {
+            "pos": 393,
+            "team": "cybercat",
+            "score": 60
+        },
+        {
+            "pos": 394,
+            "team": "ForenSick",
+            "score": 10
+        },
+        {
+            "pos": 395,
+            "team": "BetaSecure",
+            "score": 10
+        },
+        {
+            "pos": 396,
+            "team": "M1tM",
+            "score": 10
+        },
+        {
+            "pos": 397,
+            "team": "Nepaletka",
+            "score": 10
+        },
+        {
+            "pos": 398,
+            "team": "PracticeTeam",
+            "score": 10
+        },
+        {
+            "pos": 399,
+            "team": "Naruto",
+            "score": 10
+        },
+        {
+            "pos": 400,
+            "team": "<OOO>",
+            "score": 10
+        },
+        {
+            "pos": 401,
+            "team": "vulnex",
+            "score": 10
+        },
+        {
+            "pos": 402,
+            "team": "Axiomatic",
+            "score": 10
+        },
+        {
+            "pos": 403,
+            "team": "Stealth Mode",
+            "score": 10
+        },
+        {
+            "pos": 404,
+            "team": "Pr0t3ct0rs",
+            "score": 10
+        },
+        {
+            "pos": 405,
+            "team": "Cream",
+            "score": 10
+        },
+        {
+            "pos": 406,
+            "team": "Z-HAX",
+            "score": 10
+        },
+        {
+            "pos": 407,
+            "team": "random6",
+            "score": 10
+        },
+        {
+            "pos": 408,
+            "team": "ESPRIT",
+            "score": 10
+        },
+        {
+            "pos": 409,
+            "team": "Sleeper Agent",
+            "score": 10
+        },
+        {
+            "pos": 410,
+            "team": "Kodialbail_Heroes",
+            "score": 10
+        },
+        {
+            "pos": 411,
+            "team": "tn_sec",
+            "score": 10
+        },
+        {
+            "pos": 412,
+            "team": "Blake Bears",
+            "score": 10
+        },
+        {
+            "pos": 413,
+            "team": "m0nk3y_1n_tc1vs",
+            "score": 10
+        },
+        {
+            "pos": 414,
+            "team": "Cyber Sentinal",
+            "score": 10
+        },
+        {
+            "pos": 415,
+            "team": "xryasnoy",
+            "score": 10
+        },
+        {
+            "pos": 416,
+            "team": "Purpleglazplayer",
+            "score": 10
+        },
+        {
+            "pos": 417,
+            "team": "Whiterose",
+            "score": 10
+        },
+        {
+            "pos": 418,
+            "team": "WhiteWolf",
+            "score": 10
+        },
+        {
+            "pos": 419,
+            "team": "DEDSEC",
+            "score": 10
+        },
+        {
+            "pos": 420,
+            "team": "TempleRunners",
+            "score": 10
+        },
+        {
+            "pos": 421,
+            "team": "cyb3rknight5",
+            "score": 10
+        },
+        {
+            "pos": 422,
+            "team": "PrivateUser",
+            "score": 10
+        },
+        {
+            "pos": 423,
+            "team": "DA6KG9T",
+            "score": 10
+        },
+        {
+            "pos": 424,
+            "team": "sekuritons",
+            "score": 10
+        },
+        {
+            "pos": 425,
+            "team": "m3d03d",
+            "score": 10
+        },
+        {
+            "pos": 426,
+            "team": "CreateRemoteThread",
+            "score": 10
+        },
+        {
+            "pos": 427,
+            "team": "C1ph3r-Sh4d0w5",
+            "score": 10
+        },
+        {
+            "pos": 428,
+            "team": "anon",
+            "score": 10
+        },
+        {
+            "pos": 429,
+            "team": "Im_cooked",
+            "score": 10
+        },
+        {
+            "pos": 430,
+            "team": "C1PH3R_N0OB5",
+            "score": 10
+        },
+        {
+            "pos": 431,
+            "team": "Syntax Error",
+            "score": 10
+        },
+        {
+            "pos": 432,
+            "team": "r3dh4t",
+            "score": 10
+        },
+        {
+            "pos": 433,
+            "team": "Boltz",
+            "score": 10
+        },
+        {
+            "pos": 434,
+            "team": "FrogSong",
+            "score": 10
+        },
+        {
+            "pos": 435,
+            "team": "SlientRoot",
+            "score": 10
+        },
+        {
+            "pos": 436,
+            "team": "0xG04",
+            "score": 10
+        },
+        {
+            "pos": 437,
+            "team": "Rajshri Paan Masala",
+            "score": 10
+        },
+        {
+            "pos": 438,
+            "team": "Small4nt1nTh1sW0rld",
+            "score": 10
+        },
+        {
+            "pos": 439,
+            "team": "Steal",
+            "score": 10
+        },
+        {
+            "pos": 440,
+            "team": "Sp$$$%%",
+            "score": 10
+        },
+        {
+            "pos": 441,
+            "team": "Caffeine Legends",
+            "score": 10
+        },
+        {
+            "pos": 442,
+            "team": "404 Error",
+            "score": 10
+        },
+        {
+            "pos": 443,
+            "team": "Error401",
+            "score": 10
+        },
+        {
+            "pos": 444,
+            "team": "l4h",
+            "score": 10
+        },
+        {
+            "pos": 445,
+            "team": "exDeviants",
+            "score": 10
+        },
+        {
+            "pos": 446,
+            "team": "CyberSec",
+            "score": 10
+        },
+        {
+            "pos": 447,
+            "team": "(^=-_-=^)",
+            "score": 10
+        },
+        {
+            "pos": 448,
+            "team": "ch1lL_9uy",
+            "score": 10
+        },
+        {
+            "pos": 449,
+            "team": "Team_D4rk_Pr0t0c0l",
+            "score": 10
+        },
+        {
+            "pos": 450,
+            "team": "INFO FLAGNYA WAKKKK",
+            "score": 10
+        },
+        {
+            "pos": 451,
+            "team": "Byte Bandits",
+            "score": 10
+        },
+        {
+            "pos": 452,
+            "team": "VenK2",
+            "score": 10
+        },
+        {
+            "pos": 453,
+            "team": "Lester crest",
+            "score": 10
+        },
+        {
+            "pos": 454,
+            "team": "sanyahysoshi",
+            "score": 10
+        },
+        {
+            "pos": 455,
+            "team": "Sanji",
+            "score": 10
+        },
+        {
+            "pos": 456,
+            "team": "newbie33",
+            "score": 10
+        },
+        {
+            "pos": 457,
+            "team": "TEUReverse",
+            "score": 10
+        },
+        {
+            "pos": 458,
+            "team": "_asciibidi_",
+            "score": 10
+        },
+        {
+            "pos": 459,
+            "team": "The Hacktivists",
+            "score": 10
+        },
+        {
+            "pos": 460,
+            "team": "Pacami",
+            "score": 10
+        },
+        {
+            "pos": 461,
+            "team": "Team1440",
+            "score": 10
+        },
+        {
+            "pos": 462,
+            "team": "clueless872",
+            "score": 10
+        },
+        {
+            "pos": 463,
+            "team": "H1dd3nR00t",
+            "score": 10
+        },
+        {
+            "pos": 464,
+            "team": "rk01m",
+            "score": 10
+        },
+        {
+            "pos": 465,
+            "team": "Dholakpur",
+            "score": 10
+        },
+        {
+            "pos": 466,
+            "team": "darkhunterhere@gmail.com",
+            "score": 10
+        },
+        {
+            "pos": 467,
+            "team": "404:Not Found",
+            "score": 10
+        },
+        {
+            "pos": 468,
+            "team": "R4V3N",
+            "score": 10
+        },
+        {
+            "pos": 469,
+            "team": "My4nM4r",
+            "score": 10
+        },
+        {
+            "pos": 470,
+            "team": "Deadline Crusher",
+            "score": 10
+        },
+        {
+            "pos": 471,
+            "team": "UNKNOWN",
+            "score": 10
+        },
+        {
+            "pos": 472,
+            "team": "NL-IND",
+            "score": 10
+        },
+        {
+            "pos": 473,
+            "team": "BlahLand",
+            "score": 10
+        },
+        {
+            "pos": 474,
+            "team": "SETU - LOKI",
+            "score": 10
+        },
+        {
+            "pos": 475,
+            "team": "edamame",
+            "score": 10
+        },
+        {
+            "pos": 476,
+            "team": "CipherX",
+            "score": 10
+        },
+        {
+            "pos": 477,
+            "team": "darshan ninja",
+            "score": 10
+        },
+        {
+            "pos": 478,
+            "team": "./7ry_h4rd3r\\.",
+            "score": 10
+        },
+        {
+            "pos": 479,
+            "team": "0nlyH4ck5",
+            "score": 10
+        },
+        {
+            "pos": 480,
+            "team": "chipich4p4",
+            "score": 10
+        },
+        {
+            "pos": 481,
+            "team": "siark",
+            "score": 10
+        },
+        {
+            "pos": 482,
+            "team": "katana",
+            "score": 10
+        },
+        {
+            "pos": 483,
+            "team": "Team Illusion",
+            "score": 10
+        },
+        {
+            "pos": 484,
+            "team": "G1",
+            "score": 10
+        },
+        {
+            "pos": 485,
+            "team": "Raoul Duke",
+            "score": 10
+        },
+        {
+            "pos": 486,
+            "team": "Cyber_Bros",
+            "score": 10
+        },
+        {
+            "pos": 487,
+            "team": "nnnnnnn",
+            "score": 10
+        },
+        {
+            "pos": 488,
+            "team": "Fr1d4y",
+            "score": 10
+        },
+        {
+            "pos": 489,
+            "team": "stalk",
+            "score": 10
+        },
+        {
+            "pos": 490,
+            "team": "Not a happy birthday",
+            "score": 10
+        },
+        {
+            "pos": 491,
+            "team": "ggs",
+            "score": 10
+        },
+        {
+            "pos": 492,
+            "team": "Tr00py",
+            "score": 10
+        },
+        {
+            "pos": 493,
+            "team": "Codecho",
+            "score": 10
+        },
+        {
+            "pos": 494,
+            "team": "TCTN",
+            "score": 10
+        },
+        {
+            "pos": 495,
+            "team": "DarkPulse",
+            "score": 10
+        },
+        {
+            "pos": 496,
+            "team": "thierryb",
+            "score": 10
+        },
+        {
+            "pos": 497,
+            "team": "forfun",
+            "score": 10
+        },
+        {
+            "pos": 498,
+            "team": "bibiemasnawy@gmail.com",
+            "score": 10
+        },
+        {
+            "pos": 499,
+            "team": "simp",
+            "score": 10
+        },
+        {
+            "pos": 500,
+            "team": "hacker",
+            "score": 10
+        },
+        {
+            "pos": 501,
+            "team": "A1ia5",
+            "score": 10
+        },
+        {
+            "pos": 502,
+            "team": "arul9228",
+            "score": 10
+        },
+        {
+            "pos": 503,
+            "team": "Les Bouffons",
+            "score": 10
+        },
+        {
+            "pos": 504,
+            "team": "NOPS",
+            "score": 10
+        },
+        {
+            "pos": 505,
+            "team": "Team Devills",
+            "score": 10
+        },
+        {
+            "pos": 506,
+            "team": "0_0",
+            "score": 10
+        },
+        {
+            "pos": 507,
+            "team": "Death_Geass",
+            "score": 10
+        },
+        {
+            "pos": 508,
+            "team": "HollowKnights",
+            "score": 10
+        },
+        {
+            "pos": 509,
+            "team": "BackMoon",
+            "score": 10
+        },
+        {
+            "pos": 510,
+            "team": "Akuma",
+            "score": 10
+        },
+        {
+            "pos": 511,
+            "team": "amnaf",
+            "score": 10
+        },
+        {
+            "pos": 512,
+            "team": "The Akatsuki",
+            "score": 10
+        },
+        {
+            "pos": 513,
+            "team": "b4d33r",
+            "score": 10
+        },
+        {
+            "pos": 514,
+            "team": "cAPTCHA",
+            "score": 10
+        },
+        {
+            "pos": 515,
+            "team": "Cyberpunk",
+            "score": 10
+        },
+        {
+            "pos": 516,
+            "team": "HDhackers",
+            "score": 10
+        },
+        {
+            "pos": 517,
+            "team": "abdullahK",
+            "score": 10
+        },
+        {
+            "pos": 518,
+            "team": "xiaoxiong",
+            "score": 10
+        },
+        {
+            "pos": 519,
+            "team": "N3wb",
+            "score": 10
+        },
+        {
+            "pos": 520,
+            "team": "Abhedya",
+            "score": 10
+        },
+        {
+            "pos": 521,
+            "team": "zxc",
+            "score": 10
+        },
+        {
+            "pos": 522,
+            "team": "RAXH",
+            "score": 10
+        },
+        {
+            "pos": 523,
+            "team": "InternetBoy",
+            "score": 10
+        },
+        {
+            "pos": 524,
+            "team": "LGK_Cyber",
+            "score": 10
+        },
+        {
+            "pos": 525,
+            "team": "Signals&Systems",
+            "score": 10
+        },
+        {
+            "pos": 526,
+            "team": "GO",
+            "score": 10
+        },
+        {
+            "pos": 527,
+            "team": "HackerRocket",
+            "score": 10
+        },
+        {
+            "pos": 528,
+            "team": "Sp00k",
+            "score": 10
+        },
+        {
+            "pos": 529,
+            "team": "f4n_n3r0",
+            "score": 10
+        },
+        {
+            "pos": 530,
+            "team": "NoobsLatam",
+            "score": 10
+        },
+        {
+            "pos": 531,
+            "team": "P3nk",
+            "score": 10
+        },
+        {
+            "pos": 532,
+            "team": "404",
+            "score": 10
+        },
+        {
+            "pos": 533,
+            "team": "46 52",
+            "score": 10
+        },
+        {
+            "pos": 534,
+            "team": "snipers",
+            "score": 10
+        },
+        {
+            "pos": 535,
+            "team": "DegenB",
+            "score": 10
+        },
+        {
+            "pos": 536,
+            "team": "Zz",
+            "score": 10
+        },
+        {
+            "pos": 537,
+            "team": "TheBarons",
+            "score": 10
+        },
+        {
+            "pos": 538,
+            "team": "Turbobachan",
+            "score": 10
+        },
+        {
+            "pos": 539,
+            "team": "R3D$H4D0W",
+            "score": 10
+        },
+        {
+            "pos": 540,
+            "team": "#MogamiShizuka",
+            "score": 10
+        },
+        {
+            "pos": 541,
+            "team": "rubyray",
+            "score": 10
+        },
+        {
+            "pos": 542,
+            "team": "Howl",
+            "score": 10
+        },
+        {
+            "pos": 543,
+            "team": "Untitled CTF Game",
+            "score": 10
+        },
+        {
+            "pos": 544,
+            "team": "404n0tf0und",
+            "score": 10
+        },
+        {
+            "pos": 545,
+            "team": "yayati",
+            "score": 10
+        },
+        {
+            "pos": 546,
+            "team": "ttt",
+            "score": 10
+        },
+        {
+            "pos": 547,
+            "team": "CDB",
+            "score": 10
+        },
+        {
+            "pos": 548,
+            "team": "Sodium Chloride",
+            "score": 10
+        },
+        {
+            "pos": 549,
+            "team": "MagicUnicornium",
+            "score": 10
+        },
+        {
+            "pos": 550,
+            "team": "Cyber_Ninjas",
+            "score": 10
+        },
+        {
+            "pos": 551,
+            "team": "Cyber Kings",
+            "score": 10
+        },
+        {
+            "pos": 552,
+            "team": "Definitely_not",
+            "score": 10
+        },
+        {
+            "pos": 553,
+            "team": "Genisis",
+            "score": 10
+        },
+        {
+            "pos": 554,
+            "team": "no0bie",
+            "score": 10
+        },
+        {
+            "pos": 555,
+            "team": "actuallyvisually",
+            "score": 10
+        },
+        {
+            "pos": 556,
+            "team": "Ech0_Cryp7",
+            "score": 10
+        },
+        {
+            "pos": 557,
+            "team": "lolbin",
+            "score": 10
+        },
+        {
+            "pos": 558,
+            "team": "aGFja2Vy",
+            "score": 10
+        },
+        {
+            "pos": 559,
+            "team": "Ryomen Sukuna",
+            "score": 10
+        },
+        {
+            "pos": 560,
+            "team": "Hasaki",
+            "score": 10
+        },
+        {
+            "pos": 561,
+            "team": "Cybertroll",
+            "score": 10
+        },
+        {
+            "pos": 562,
+            "team": "Toasters",
+            "score": 10
+        },
+        {
+            "pos": 563,
+            "team": "Dark warriors",
+            "score": 10
+        },
+        {
+            "pos": 564,
+            "team": "Dark Diamonds",
+            "score": 10
+        },
+        {
+            "pos": 565,
+            "team": "Juche",
+            "score": 10
+        },
+        {
+            "pos": 566,
+            "team": "clueless",
+            "score": 10
+        },
+        {
+            "pos": 567,
+            "team": "kornpong_citc",
+            "score": 10
+        },
+        {
+            "pos": 568,
+            "team": "0x7F",
+            "score": 10
+        },
+        {
+            "pos": 569,
+            "team": "kingofparky",
+            "score": 10
+        },
+        {
+            "pos": 570,
+            "team": "ICC 48Gang x SOA",
+            "score": 10
+        },
+        {
+            "pos": 571,
+            "team": "alonly stone",
+            "score": 10
+        },
+        {
+            "pos": 572,
+            "team": "CasperX",
+            "score": 10
+        },
+        {
+            "pos": 573,
+            "team": "shark",
+            "score": 10
+        },
+        {
+            "pos": 574,
+            "team": "chmok",
+            "score": 10
+        },
+        {
+            "pos": 575,
+            "team": "UVT-CTF",
+            "score": 10
+        },
+        {
+            "pos": 576,
+            "team": "alexandru102",
+            "score": 10
+        },
+        {
+            "pos": 577,
+            "team": "0sc4r1n",
+            "score": 10
+        },
+        {
+            "pos": 578,
+            "team": "Klepon",
+            "score": 10
+        },
+        {
+            "pos": 579,
+            "team": "kur0k4mi",
+            "score": 10
+        },
+        {
+            "pos": 580,
+            "team": "T4N63R1N3",
+            "score": 10
+        },
+        {
+            "pos": 581,
+            "team": "f34rl3ss",
+            "score": 10
+        },
+        {
+            "pos": 582,
+            "team": "YMD",
+            "score": 10
+        },
+        {
+            "pos": 583,
+            "team": "encLove",
+            "score": 10
+        },
+        {
+            "pos": 584,
+            "team": "fr334aks-mini",
+            "score": 10
+        },
+        {
+            "pos": 585,
+            "team": "movie43",
+            "score": 10
+        },
+        {
+            "pos": 586,
+            "team": "IDapp",
+            "score": 10
+        },
+        {
+            "pos": 587,
+            "team": "D4NGLZ",
+            "score": 10
+        },
+        {
+            "pos": 588,
+            "team": "Stardust crackheads",
+            "score": 10
+        },
+        {
+            "pos": 589,
+            "team": "skibiDiDiOS",
+            "score": 10
+        },
+        {
+            "pos": 590,
+            "team": "Digisuraksha parhari foundation",
+            "score": 10
+        },
+        {
+            "pos": 591,
+            "team": "2GB",
+            "score": 10
+        },
+        {
+            "pos": 592,
+            "team": "getgudnerdss",
+            "score": 10
+        },
+        {
+            "pos": 593,
+            "team": "Single",
+            "score": 10
+        },
+        {
+            "pos": 594,
+            "team": "reactguy",
+            "score": 10
+        },
+        {
+            "pos": 595,
+            "team": "koma2",
+            "score": 10
+        },
+        {
+            "pos": 596,
+            "team": "SlumoDog",
+            "score": 10
+        },
+        {
+            "pos": 597,
+            "team": "enclop",
+            "score": 10
+        },
+        {
+            "pos": 598,
+            "team": "Mugi3",
+            "score": 10
+        },
+        {
+            "pos": 599,
+            "team": "Ace Team",
+            "score": 10
+        },
+        {
+            "pos": 600,
+            "team": "Nik",
+            "score": 10
+        },
+        {
+            "pos": 601,
+            "team": "First_step",
+            "score": 10
+        },
+        {
+            "pos": 602,
+            "team": "mdn_ijhdne",
+            "score": 10
+        },
+        {
+            "pos": 603,
+            "team": "s3cure_sh3ll",
+            "score": 10
+        },
+        {
+            "pos": 604,
+            "team": "Doodleman",
+            "score": 10
+        },
+        {
+            "pos": 605,
+            "team": "tes",
+            "score": 10
+        },
+        {
+            "pos": 606,
+            "team": "th3rm4l",
+            "score": 10
+        },
+        {
+            "pos": 607,
+            "team": "58e0aa1a67",
+            "score": 10
+        },
+        {
+            "pos": 608,
+            "team": "Segmentation Fault",
+            "score": 10
+        },
+        {
+            "pos": 609,
+            "team": "theonlyunr",
+            "score": 10
+        },
+        {
+            "pos": 610,
+            "team": "NINO",
+            "score": 10
+        },
+        {
+            "pos": 611,
+            "team": "Asteroid Destroyer",
+            "score": 10
+        },
+        {
+            "pos": 612,
+            "team": "cyb3rt1f13d",
+            "score": 10
+        },
+        {
+            "pos": 613,
+            "team": "Hungers",
+            "score": 10
+        },
+        {
+            "pos": 614,
+            "team": "Pwners",
+            "score": 10
+        },
+        {
+            "pos": 615,
+            "team": "FOOBAR",
+            "score": 10
+        },
+        {
+            "pos": 616,
+            "team": "Sir-Sex-Alot",
+            "score": 10
+        },
+        {
+            "pos": 617,
+            "team": "CYSEC_GITAM",
+            "score": 10
+        },
+        {
+            "pos": 618,
+            "team": "Hackers & Shellzinhas",
+            "score": 10
+        },
+        {
+            "pos": 619,
+            "team": "0x8pwn",
+            "score": 10
+        },
+        {
+            "pos": 620,
+            "team": "P1nkCl0ud",
+            "score": 10
+        },
+        {
+            "pos": 621,
+            "team": "EachLove3",
+            "score": 10
+        },
+        {
+            "pos": 622,
+            "team": "Flaggers United",
+            "score": 10
+        },
+        {
+            "pos": 623,
+            "team": "Blah",
+            "score": 10
+        },
+        {
+            "pos": 624,
+            "team": "ctfrrteam",
+            "score": 10
+        },
+        {
+            "pos": 625,
+            "team": "vvv",
+            "score": 10
+        },
+        {
+            "pos": 626,
+            "team": "LoveAtFirstByte",
+            "score": 10
+        },
+        {
+            "pos": 627,
+            "team": "SyntaxSword",
+            "score": 10
+        },
+        {
+            "pos": 628,
+            "team": "IamRini",
+            "score": 10
+        },
+        {
+            "pos": 629,
+            "team": "Tandava",
+            "score": 10
+        },
+        {
+            "pos": 630,
+            "team": "reza",
+            "score": 10
+        },
+        {
+            "pos": 631,
+            "team": "NAANCHEESESOCIAL",
+            "score": 10
+        },
+        {
+            "pos": 632,
+            "team": "GeekTech",
+            "score": 10
+        },
+        {
+            "pos": 633,
+            "team": "CYB3RFL4G",
+            "score": 10
+        },
+        {
+            "pos": 634,
+            "team": "Cyber Vanguard",
+            "score": 10
+        },
+        {
+            "pos": 635,
+            "team": "Matrix",
+            "score": 10
+        },
+        {
+            "pos": 636,
+            "team": "ri5e",
+            "score": 10
+        },
+        {
+            "pos": 637,
+            "team": "Super Hans",
+            "score": 10
+        },
+        {
+            "pos": 638,
+            "team": "FlagF!nd3rz",
+            "score": 10
+        },
+        {
+            "pos": 639,
+            "team": "MnM",
+            "score": 10
+        },
+        {
+            "pos": 640,
+            "team": "Happy",
+            "score": 10
+        },
+        {
+            "pos": 641,
+            "team": "Burgers vectors",
+            "score": 10
+        },
+        {
+            "pos": 642,
+            "team": "iammusic",
+            "score": 10
+        },
+        {
+            "pos": 643,
+            "team": "H3x",
+            "score": 10
+        },
+        {
+            "pos": 644,
+            "team": "Cyb3r_Squad",
+            "score": 10
+        },
+        {
+            "pos": 645,
+            "team": "R0ot",
+            "score": 10
+        },
+        {
+            "pos": 646,
+            "team": "Yappuchin@123",
+            "score": 10
+        },
+        {
+            "pos": 647,
+            "team": "qwead",
+            "score": 10
+        },
+        {
+            "pos": 648,
+            "team": "testers",
+            "score": 10
+        },
+        {
+            "pos": 649,
+            "team": "suks",
+            "score": 10
+        },
+        {
+            "pos": 650,
+            "team": "mengesankan",
+            "score": 10
+        },
+        {
+            "pos": 651,
+            "team": "kyan agarwal",
+            "score": 10
+        },
+        {
+            "pos": 652,
+            "team": "Maas-terMinds",
+            "score": 10
+        },
+        {
+            "pos": 653,
+            "team": "vagOS",
+            "score": 10
+        },
+        {
+            "pos": 654,
+            "team": "Picknmix",
+            "score": 10
+        },
+        {
+            "pos": 655,
+            "team": "Igr1s",
+            "score": 10
+        },
+        {
+            "pos": 656,
+            "team": "Just For The Questions",
+            "score": 10
+        },
+        {
+            "pos": 657,
+            "team": "My name is Aidan I liek to d4nc3",
+            "score": 10
+        },
+        {
+            "pos": 658,
+            "team": "Azem",
+            "score": 10
+        },
+        {
+            "pos": 659,
+            "team": "anaelbos",
+            "score": 10
+        },
+        {
+            "pos": 660,
+            "team": "loid",
+            "score": 10
+        },
+        {
+            "pos": 661,
+            "team": "lol",
+            "score": 10
+        },
+        {
+            "pos": 662,
+            "team": "0xf1sh",
+            "score": 10
+        },
+        {
+            "pos": 663,
+            "team": "n3ur0t1c",
+            "score": 10
+        },
+        {
+            "pos": 664,
+            "team": "GUB_AlphaZeros",
+            "score": 10
+        },
+        {
+            "pos": 665,
+            "team": "Gon_Tanaka",
+            "score": 10
+        },
+        {
+            "pos": 666,
+            "team": "ysokk",
+            "score": 10
+        },
+        {
+            "pos": 667,
+            "team": "solyomb",
+            "score": 10
+        },
+        {
+            "pos": 668,
+            "team": "Martial_Law_Enforcer",
+            "score": 10
+        },
+        {
+            "pos": 669,
+            "team": "Meteora",
+            "score": 10
+        },
+        {
+            "pos": 670,
+            "team": "vastzero",
+            "score": 10
+        },
+        {
+            "pos": 671,
+            "team": "sunfrancis12",
+            "score": 10
+        },
+        {
+            "pos": 672,
+            "team": "Zaun",
+            "score": 10
+        },
+        {
+            "pos": 673,
+            "team": "127.0.0.1",
+            "score": 10
+        },
+        {
+            "pos": 674,
+            "team": "5ku11y",
+            "score": 10
+        },
+        {
+            "pos": 675,
+            "team": "The Viet Ronin",
+            "score": 10
+        },
+        {
+            "pos": 676,
+            "team": "Starburst Kiwawa",
+            "score": 10
+        },
+        {
+            "pos": 677,
+            "team": "W0rms",
+            "score": 10
+        },
+        {
+            "pos": 678,
+            "team": "Solo overflow",
+            "score": 10
+        },
+        {
+            "pos": 679,
+            "team": "Status 418",
+            "score": 10
+        },
+        {
+            "pos": 680,
+            "team": "avocado",
+            "score": 10
+        },
+        {
+            "pos": 681,
+            "team": "micew",
+            "score": 10
+        },
+        {
+            "pos": 682,
+            "team": "Sea~",
+            "score": 10
+        },
+        {
+            "pos": 683,
+            "team": "penciltesters",
+            "score": 10
+        },
+        {
+            "pos": 684,
+            "team": "Lunar_r3d",
+            "score": 10
+        },
+        {
+            "pos": 685,
+            "team": "J0K3RSM!L3",
+            "score": 10
+        },
+        {
+            "pos": 686,
+            "team": "BSquad",
+            "score": 10
+        },
+        {
+            "pos": 687,
+            "team": "haxxray",
+            "score": 10
+        },
+        {
+            "pos": 688,
+            "team": "t0rk",
+            "score": 10
+        },
+        {
+            "pos": 689,
+            "team": "novice_47",
+            "score": 10
+        },
+        {
+            "pos": 690,
+            "team": "AOne",
+            "score": 10
+        },
+        {
+            "pos": 691,
+            "team": "nuts",
+            "score": 10
+        },
+        {
+            "pos": 692,
+            "team": "TR0Z4N",
+            "score": 10
+        },
+        {
+            "pos": 693,
+            "team": "H7Tex",
+            "score": 10
+        },
+        {
+            "pos": 694,
+            "team": "TestTestTest",
+            "score": 10
+        },
+        {
+            "pos": 695,
+            "team": "logdav",
+            "score": 10
+        },
+        {
+            "pos": 696,
+            "team": "UIT.n3wb13",
+            "score": 10
+        },
+        {
+            "pos": 697,
+            "team": "Bulls&Balls",
+            "score": 10
+        },
+        {
+            "pos": 698,
+            "team": "play",
+            "score": 10
+        },
+        {
+            "pos": 699,
+            "team": "rc",
+            "score": 10
+        },
+        {
+            "pos": 700,
+            "team": "ww",
+            "score": 10
+        },
+        {
+            "pos": 701,
+            "team": "__1dk._",
+            "score": 10
+        },
+        {
+            "pos": 702,
+            "team": "SecJut",
+            "score": 10
+        },
+        {
+            "pos": 703,
+            "team": "DraculaHexler",
+            "score": 10
+        },
+        {
+            "pos": 704,
+            "team": "xzbvksdhgie",
+            "score": 10
+        },
+        {
+            "pos": 705,
+            "team": "EBOK",
+            "score": 10
+        },
+        {
+            "pos": 706,
+            "team": "A$AP",
+            "score": 10
+        },
+        {
+            "pos": 707,
+            "team": "The Guardian",
+            "score": 10
+        },
+        {
+            "pos": 708,
+            "team": "PandaApocalypse",
+            "score": 10
+        },
+        {
+            "pos": 709,
+            "team": "acdwas",
+            "score": 10
+        },
+        {
+            "pos": 710,
+            "team": "HexReX",
+            "score": 10
+        },
+        {
+            "pos": 711,
+            "team": "Not at 221B, BakerStreet",
+            "score": 10
+        },
+        {
+            "pos": 712,
+            "team": "KXTI_k1b",
+            "score": 10
+        },
+        {
+            "pos": 713,
+            "team": ".-.",
+            "score": 10
+        },
+        {
+            "pos": 714,
+            "team": "KaPpi",
+            "score": 10
+        },
+        {
+            "pos": 715,
+            "team": "R4tw1z",
+            "score": 10
+        },
+        {
+            "pos": 716,
+            "team": ".",
+            "score": 10
+        },
+        {
+            "pos": 717,
+            "team": "ARJUN",
+            "score": 10
+        },
+        {
+            "pos": 718,
+            "team": "Davidpb",
+            "score": 10
+        },
+        {
+            "pos": 719,
+            "team": "DVA",
+            "score": 10
+        },
+        {
+            "pos": 720,
+            "team": "Hacky Easter",
+            "score": 10
+        },
+        {
+            "pos": 721,
+            "team": "sixat",
+            "score": 10
+        },
+        {
+            "pos": 722,
+            "team": "nutbutter",
+            "score": 10
+        },
+        {
+            "pos": 723,
+            "team": "ThomasGKorp",
+            "score": 10
+        },
+        {
+            "pos": 724,
+            "team": "gogopower",
+            "score": 10
+        },
+        {
+            "pos": 725,
+            "team": "Heimlich",
+            "score": 10
+        },
+        {
+            "pos": 726,
+            "team": "StealthX",
+            "score": 10
+        },
+        {
+            "pos": 727,
+            "team": "GanSw",
+            "score": 10
+        },
+        {
+            "pos": 728,
+            "team": "allcaps",
+            "score": 10
+        },
+        {
+            "pos": 729,
+            "team": "LaLoupiotte fan team",
+            "score": 10
+        },
+        {
+            "pos": 730,
+            "team": "nahaap's team",
+            "score": 10
+        },
+        {
+            "pos": 731,
+            "team": "ice spice",
+            "score": 10
+        },
+        {
+            "pos": 732,
+            "team": "CrackHeads",
+            "score": 10
+        },
+        {
+            "pos": 733,
+            "team": "avokado",
+            "score": 10
+        },
+        {
+            "pos": 734,
+            "team": "SmallCatCat",
+            "score": 10
+        },
+        {
+            "pos": 735,
+            "team": "Funkiedorf",
+            "score": 10
+        },
+        {
+            "pos": 736,
+            "team": "kaddu",
+            "score": 10
+        },
+        {
+            "pos": 737,
+            "team": "change",
+            "score": 10
+        },
+        {
+            "pos": 738,
+            "team": "hf",
+            "score": 10
+        },
+        {
+            "pos": 739,
+            "team": "idolo",
+            "score": 10
+        },
+        {
+            "pos": 740,
+            "team": "Deadline",
+            "score": 10
+        },
+        {
+            "pos": 741,
+            "team": "almost null",
+            "score": 10
+        },
+        {
+            "pos": 742,
+            "team": "justtrying",
+            "score": 10
+        },
+        {
+            "pos": 743,
+            "team": "Team Cyber",
+            "score": 10
+        },
+        {
+            "pos": 744,
+            "team": "CyberR4bb1t",
+            "score": 10
+        },
+        {
+            "pos": 745,
+            "team": "R00T U53RS",
+            "score": 10
+        },
+        {
+            "pos": 746,
+            "team": "Razor Sharks",
+            "score": 10
+        },
+        {
+            "pos": 747,
+            "team": "noli",
+            "score": 10
+        },
+        {
+            "pos": 748,
+            "team": "gLaR3g3x",
+            "score": 10
+        },
+        {
+            "pos": 749,
+            "team": "Team-915",
+            "score": 10
+        },
+        {
+            "pos": 750,
+            "team": "ROECYB",
+            "score": 10
+        },
+        {
+            "pos": 751,
+            "team": "Hehe group",
+            "score": 10
+        },
+        {
+            "pos": 752,
+            "team": "Cyberphile",
+            "score": 10
+        },
+        {
+            "pos": 753,
+            "team": "dffd",
+            "score": 10
+        },
+        {
+            "pos": 754,
+            "team": "gardulla",
+            "score": 10
+        },
+        {
+            "pos": 755,
+            "team": "uwuppt",
+            "score": 10
+        },
+        {
+            "pos": 756,
+            "team": "W4NN4 B3 3L1735",
+            "score": 10
+        },
+        {
+            "pos": 757,
+            "team": "Btala_gaming",
+            "score": 10
+        },
+        {
+            "pos": 758,
+            "team": "banna",
+            "score": 10
+        },
+        {
+            "pos": 759,
+            "team": "whoami",
+            "score": 10
+        },
+        {
+            "pos": 760,
+            "team": "NightRaid",
+            "score": 10
+        },
+        {
+            "pos": 761,
+            "team": "Vilgax",
+            "score": 10
+        },
+        {
+            "pos": 762,
+            "team": "Myserk",
+            "score": 10
+        },
+        {
+            "pos": 763,
+            "team": "fambruh88",
+            "score": 10
+        },
+        {
+            "pos": 764,
+            "team": "SoloRanger",
+            "score": 10
+        },
+        {
+            "pos": 765,
+            "team": "CryptoKobolds",
+            "score": 10
+        },
+        {
+            "pos": 766,
+            "team": "fc2",
+            "score": 10
+        },
+        {
+            "pos": 767,
+            "team": "wirediniitk",
+            "score": 10
+        },
+        {
+            "pos": 768,
+            "team": "0xf8l",
+            "score": 10
+        },
+        {
+            "pos": 769,
+            "team": "!found",
+            "score": 10
+        },
+        {
+            "pos": 770,
+            "team": "Red_Raven",
+            "score": 10
+        },
+        {
+            "pos": 771,
+            "team": "Legends447",
+            "score": 10
+        },
+        {
+            "pos": 772,
+            "team": "HACK404",
+            "score": 10
+        },
+        {
+            "pos": 773,
+            "team": "tr4ce-bite",
+            "score": 10
+        },
+        {
+            "pos": 774,
+            "team": "9C Bois",
+            "score": 10
+        },
+        {
+            "pos": 775,
+            "team": "soutag",
+            "score": 10
+        },
+        {
+            "pos": 776,
+            "team": "Cozybear",
+            "score": 10
+        },
+        {
+            "pos": 777,
+            "team": "7h3_N3rd5",
+            "score": 10
+        },
+        {
+            "pos": 778,
+            "team": "zomra",
+            "score": 10
+        },
+        {
+            "pos": 779,
+            "team": "Phish Hat Hackers",
+            "score": 10
+        },
+        {
+            "pos": 780,
+            "team": "Mavericks",
+            "score": 10
+        },
+        {
+            "pos": 781,
+            "team": "Bombastic Boys",
+            "score": 10
+        },
+        {
+            "pos": 782,
+            "team": "p4ck3t",
+            "score": 10
+        },
+        {
+            "pos": 783,
+            "team": "bdhxgrp",
+            "score": 10
+        },
+        {
+            "pos": 784,
+            "team": "k84775968@",
+            "score": 10
+        },
+        {
+            "pos": 785,
+            "team": "phylasso",
+            "score": 10
+        },
+        {
+            "pos": 786,
+            "team": "fierypriest",
+            "score": 10
+        },
+        {
+            "pos": 787,
+            "team": "Bobbyboten",
+            "score": 10
+        },
+        {
+            "pos": 788,
+            "team": "Fakerman-b14",
+            "score": 10
+        },
+        {
+            "pos": 789,
+            "team": "fardballsland",
+            "score": 10
+        },
+        {
+            "pos": 790,
+            "team": "Cyberrhea",
+            "score": 10
+        },
+        {
+            "pos": 791,
+            "team": "El1t3M1nd5",
+            "score": 10
+        },
+        {
+            "pos": 792,
+            "team": "Tango1",
+            "score": 10
+        },
+        {
+            "pos": 793,
+            "team": "xyz",
+            "score": 10
+        },
+        {
+            "pos": 794,
+            "team": "bincookers",
+            "score": 10
+        },
+        {
+            "pos": 795,
+            "team": "San1k",
+            "score": 10
+        },
+        {
+            "pos": 796,
+            "team": "HackRank",
+            "score": 10
+        },
+        {
+            "pos": 797,
+            "team": "Flageboys",
+            "score": 10
+        },
+        {
+            "pos": 798,
+            "team": "Maroni",
+            "score": 10
+        },
+        {
+            "pos": 799,
+            "team": "hazaa",
+            "score": 10
+        },
+        {
+            "pos": 800,
+            "team": "Kushagra",
+            "score": 10
+        },
+        {
+            "pos": 801,
+            "team": "wzqwex",
+            "score": 10
+        },
+        {
+            "pos": 802,
+            "team": "keeboi",
+            "score": 10
+        },
+        {
+            "pos": 803,
+            "team": "NullJoiners",
+            "score": 10
+        },
+        {
+            "pos": 804,
+            "team": "Puck",
+            "score": 10
+        },
+        {
+            "pos": 805,
+            "team": "akngel",
+            "score": 10
+        },
+        {
+            "pos": 806,
+            "team": "INVALID_TEAM",
+            "score": 10
+        },
+        {
+            "pos": 807,
+            "team": "Cyn3rds",
+            "score": 10
+        },
+        {
+            "pos": 808,
+            "team": "sutoors",
+            "score": 10
+        },
+        {
+            "pos": 809,
+            "team": "PixelPioneers25",
+            "score": 10
+        },
+        {
+            "pos": 810,
+            "team": "tH3_r1ZzL3rS",
+            "score": 10
+        },
+        {
+            "pos": 811,
+            "team": "qooop",
+            "score": 10
+        },
+        {
+            "pos": 812,
+            "team": "Cyber Druids",
+            "score": 10
+        },
+        {
+            "pos": 813,
+            "team": "potato",
+            "score": 10
+        },
+        {
+            "pos": 814,
+            "team": "R3dT34m_pr0j3ct",
+            "score": 10
+        },
+        {
+            "pos": 815,
+            "team": "d3crypt0rz",
+            "score": 10
+        },
+        {
+            "pos": 816,
+            "team": "Clocktower Dwellers",
+            "score": 10
+        },
+        {
+            "pos": 817,
+            "team": "jubi",
+            "score": 10
+        },
+        {
+            "pos": 818,
+            "team": "PersianCats",
+            "score": 10
+        },
+        {
+            "pos": 819,
+            "team": "Nos\u00e9abond",
+            "score": 10
+        },
+        {
+            "pos": 820,
+            "team": "a1v4",
+            "score": 10
+        },
+        {
+            "pos": 821,
+            "team": "el zomra",
+            "score": 10
+        },
+        {
+            "pos": 822,
+            "team": "zwsp",
+            "score": 10
+        },
+        {
+            "pos": 823,
+            "team": "MazefTeam",
+            "score": 10
+        },
+        {
+            "pos": 824,
+            "team": "5p0r7",
+            "score": 10
+        },
+        {
+            "pos": 825,
+            "team": "Dark Elves",
+            "score": 10
+        },
+        {
+            "pos": 826,
+            "team": "holm",
+            "score": 10
+        },
+        {
+            "pos": 827,
+            "team": "moul_cyber",
+            "score": 10
+        },
+        {
+            "pos": 828,
+            "team": "OH14",
+            "score": 10
+        },
+        {
+            "pos": 829,
+            "team": "tBu0d",
+            "score": 10
+        },
+        {
+            "pos": 830,
+            "team": "Pa0x73cal",
+            "score": 10
+        },
+        {
+            "pos": 831,
+            "team": "pwn4fun",
+            "score": 10
+        },
+        {
+            "pos": 832,
+            "team": "dandan",
+            "score": 10
+        },
+        {
+            "pos": 833,
+            "team": "Frou5 Li Tnaguez",
+            "score": 10
+        },
+        {
+            "pos": 834,
+            "team": "tev27",
+            "score": 10
+        },
+        {
+            "pos": 835,
+            "team": "Satdefenders",
+            "score": 10
+        },
+        {
+            "pos": 836,
+            "team": "ICC UH",
+            "score": 10
+        },
+        {
+            "pos": 837,
+            "team": "asdf",
+            "score": 10
+        },
+        {
+            "pos": 838,
+            "team": "Hem10ck",
+            "score": 10
+        },
+        {
+            "pos": 839,
+            "team": "farwan",
+            "score": 10
+        },
+        {
+            "pos": 840,
+            "team": "wakuwaku",
+            "score": 10
+        },
+        {
+            "pos": 841,
+            "team": "EXP",
+            "score": 10
+        },
+        {
+            "pos": 842,
+            "team": "sologuy",
+            "score": 10
+        },
+        {
+            "pos": 843,
+            "team": "viccc",
+            "score": 10
+        },
+        {
+            "pos": 844,
+            "team": "__xor",
+            "score": 10
+        },
+        {
+            "pos": 845,
+            "team": "H9",
+            "score": 10
+        },
+        {
+            "pos": 846,
+            "team": "GreyStrawHats",
+            "score": 10
+        },
+        {
+            "pos": 847,
+            "team": "tim",
+            "score": 10
+        },
+        {
+            "pos": 848,
+            "team": "sk1d_s3c",
+            "score": 10
+        },
+        {
+            "pos": 849,
+            "team": "\u4e00\u5e74\u7d1a\u5ee2\u7269",
+            "score": 10
+        },
+        {
+            "pos": 850,
+            "team": "P4p1Chul0",
+            "score": 10
+        },
+        {
+            "pos": 851,
+            "team": "1232",
+            "score": 10
+        },
+        {
+            "pos": 852,
+            "team": "saxobeat",
+            "score": 10
+        },
+        {
+            "pos": 853,
+            "team": "bawolff",
+            "score": 10
+        },
+        {
+            "pos": 854,
+            "team": "ex3x",
+            "score": 10
+        },
+        {
+            "pos": 855,
+            "team": "R4Y4N3",
+            "score": 10
+        },
+        {
+            "pos": 856,
+            "team": "BabyCIA",
+            "score": 10
+        },
+        {
+            "pos": 857,
+            "team": "stmctfcokkotu",
+            "score": 10
+        },
+        {
+            "pos": 858,
+            "team": "MidnightsFlagFinder",
+            "score": 10
+        },
+        {
+            "pos": 859,
+            "team": "noms",
+            "score": 10
+        },
+        {
+            "pos": 860,
+            "team": "hanvonranxe",
+            "score": 10
+        },
+        {
+            "pos": 861,
+            "team": "BatmanKitchen",
+            "score": 10
+        },
+        {
+            "pos": 862,
+            "team": "nowar",
+            "score": 10
+        },
+        {
+            "pos": 863,
+            "team": "ZeroForge",
+            "score": 10
+        },
+        {
+            "pos": 864,
+            "team": "UIT.0r2",
+            "score": 10
+        },
+        {
+            "pos": 865,
+            "team": "reasonably_suspicious_activity",
+            "score": 10
+        },
+        {
+            "pos": 866,
+            "team": "ZeroMarea",
+            "score": 10
+        },
+        {
+            "pos": 867,
+            "team": "Winter",
+            "score": 10
+        },
+        {
+            "pos": 868,
+            "team": "KetSoSad",
+            "score": 10
+        },
+        {
+            "pos": 869,
+            "team": "bit8",
+            "score": 10
+        },
+        {
+            "pos": 870,
+            "team": "test21",
+            "score": 10
+        },
+        {
+            "pos": 871,
+            "team": "En4t1l",
+            "score": 10
+        },
+        {
+            "pos": 872,
+            "team": "Pho18",
+            "score": 10
+        },
+        {
+            "pos": 873,
+            "team": "sicada",
+            "score": 10
+        },
+        {
+            "pos": 874,
+            "team": "Team-A2",
+            "score": 10
+        },
+        {
+            "pos": 875,
+            "team": "roro",
+            "score": 10
+        },
+        {
+            "pos": 876,
+            "team": "baradika",
+            "score": 10
+        },
+        {
+            "pos": 877,
+            "team": "sebsxxx",
+            "score": 10
+        },
+        {
+            "pos": 878,
+            "team": "y4y",
+            "score": 10
+        },
+        {
+            "pos": 879,
+            "team": "Neubee",
+            "score": 10
+        },
+        {
+            "pos": 880,
+            "team": "wekkend",
+            "score": 10
+        },
+        {
+            "pos": 881,
+            "team": "Exsilium",
+            "score": 10
+        },
+        {
+            "pos": 882,
+            "team": "Malosdaf",
+            "score": 10
+        },
+        {
+            "pos": 883,
+            "team": "capy3ra",
+            "score": 10
+        },
+        {
+            "pos": 884,
+            "team": "Whois",
+            "score": 10
+        },
+        {
+            "pos": 885,
+            "team": "imp0ster56",
+            "score": 10
+        },
+        {
+            "pos": 886,
+            "team": "nobodyknows",
+            "score": 10
+        },
+        {
+            "pos": 887,
+            "team": "Goon Platoon",
+            "score": 10
+        },
+        {
+            "pos": 888,
+            "team": "AluGobi",
+            "score": 10
+        },
+        {
+            "pos": 889,
+            "team": "sa",
+            "score": 10
+        },
+        {
+            "pos": 890,
+            "team": "MeowWare",
+            "score": 10
+        },
+        {
+            "pos": 891,
+            "team": "Against the Current",
+            "score": 10
+        },
+        {
+            "pos": 892,
+            "team": "advita9",
+            "score": 10
+        },
+        {
+            "pos": 893,
+            "team": "samRsa",
+            "score": 10
+        },
+        {
+            "pos": 894,
+            "team": "0xDFIR",
+            "score": 10
+        },
+        {
+            "pos": 895,
+            "team": "ndd",
+            "score": 10
+        },
+        {
+            "pos": 896,
+            "team": "werebugged",
+            "score": 10
+        },
+        {
+            "pos": 897,
+            "team": "avasa",
+            "score": 10
+        },
+        {
+            "pos": 898,
+            "team": "80085",
+            "score": 10
+        },
+        {
+            "pos": 899,
+            "team": "Ph4nt0m Tr0up3",
+            "score": 10
+        },
+        {
+            "pos": 900,
+            "team": "F14GThi3f",
+            "score": 10
+        },
+        {
+            "pos": 901,
+            "team": "hash cracking slasher",
+            "score": 10
+        },
+        {
+            "pos": 902,
+            "team": "soala gogo",
+            "score": 10
+        },
+        {
+            "pos": 903,
+            "team": "CyberPsychos",
+            "score": 10
+        },
+        {
+            "pos": 904,
+            "team": "soloq",
+            "score": 10
+        },
+        {
+            "pos": 905,
+            "team": "UnknownDB",
+            "score": 10
+        },
+        {
+            "pos": 906,
+            "team": "aaaa",
+            "score": 10
+        },
+        {
+            "pos": 907,
+            "team": "asdasd",
+            "score": 10
+        },
+        {
+            "pos": 908,
+            "team": "CRUSADERS",
+            "score": 10
+        },
+        {
+            "pos": 909,
+            "team": "musketeertest",
+            "score": 10
+        },
+        {
+            "pos": 910,
+            "team": "justforfun",
+            "score": 10
+        },
+        {
+            "pos": 911,
+            "team": "oghan",
+            "score": 10
+        },
+        {
+            "pos": 912,
+            "team": "leso3",
+            "score": 10
+        },
+        {
+            "pos": 913,
+            "team": "BertSec",
+            "score": 10
+        },
+        {
+            "pos": 914,
+            "team": "HackingNoHero",
+            "score": 10
+        },
+        {
+            "pos": 915,
+            "team": "Cr2",
+            "score": 10
+        },
+        {
+            "pos": 916,
+            "team": "testing",
+            "score": 10
+        },
+        {
+            "pos": 917,
+            "team": "Rusdi Barbershop",
+            "score": 10
+        },
+        {
+            "pos": 918,
+            "team": "squartz",
+            "score": 10
+        },
+        {
+            "pos": 919,
+            "team": "Coucou",
+            "score": 10
+        },
+        {
+            "pos": 920,
+            "team": "Alexius",
+            "score": 10
+        },
+        {
+            "pos": 921,
+            "team": "Hage3z",
+            "score": 10
+        },
+        {
+            "pos": 922,
+            "team": "BangBang",
+            "score": 10
+        },
+        {
+            "pos": 923,
+            "team": "fdsfs",
+            "score": 10
+        },
+        {
+            "pos": 924,
+            "team": "naotiki",
+            "score": 10
+        },
+        {
+            "pos": 925,
+            "team": "4r0wana",
+            "score": 10
+        },
+        {
+            "pos": 926,
+            "team": "VSL",
+            "score": 10
+        },
+        {
+            "pos": 927,
+            "team": "SHA-272",
+            "score": 10
+        },
+        {
+            "pos": 928,
+            "team": "CICADAxUCU",
+            "score": 10
+        },
+        {
+            "pos": 929,
+            "team": "Malware Margaritas",
+            "score": 10
+        },
+        {
+            "pos": 930,
+            "team": "goida",
+            "score": 10
+        },
+        {
+            "pos": 931,
+            "team": "TheNewbie",
+            "score": 10
+        },
+        {
+            "pos": 932,
+            "team": "Unkn0wn5urf",
+            "score": 10
+        },
+        {
+            "pos": 933,
+            "team": "bb",
+            "score": 10
+        },
+        {
+            "pos": 934,
+            "team": "cybervave",
+            "score": 10
+        },
+        {
+            "pos": 935,
+            "team": "Cygeek123",
+            "score": 10
+        },
+        {
+            "pos": 936,
+            "team": "CyGeek",
+            "score": 10
+        },
+        {
+            "pos": 937,
+            "team": "fzhshzh",
+            "score": 10
+        },
+        {
+            "pos": 938,
+            "team": "Pathfinder",
+            "score": 10
+        },
+        {
+            "pos": 939,
+            "team": "Zer0_Kn0w1edge",
+            "score": 10
+        },
+        {
+            "pos": 940,
+            "team": "CccC",
+            "score": 10
+        },
+        {
+            "pos": 941,
+            "team": "Cypher.Nitro",
+            "score": 10
+        },
+        {
+            "pos": 942,
+            "team": "Checkm4te_",
+            "score": 10
+        },
+        {
+            "pos": 943,
+            "team": "torimula",
+            "score": 10
+        },
+        {
+            "pos": 944,
+            "team": "OaklandCTF",
+            "score": 10
+        },
+        {
+            "pos": 945,
+            "team": "Losers",
+            "score": 10
+        },
+        {
+            "pos": 946,
+            "team": "smallbo",
+            "score": 10
+        },
+        {
+            "pos": 947,
+            "team": "ZeroDayKnights",
+            "score": 10
+        },
+        {
+            "pos": 948,
+            "team": "Dig",
+            "score": 10
+        },
+        {
+            "pos": 949,
+            "team": "Raptors",
+            "score": 10
+        },
+        {
+            "pos": 950,
+            "team": "WeTheCyber",
+            "score": 10
+        },
+        {
+            "pos": 951,
+            "team": "pp",
+            "score": 10
+        },
+        {
+            "pos": 952,
+            "team": "mehh",
+            "score": 10
+        },
+        {
+            "pos": 953,
+            "team": "Aw4k3n",
+            "score": 10
+        },
+        {
+            "pos": 954,
+            "team": "SoloLevelingWithKorki",
+            "score": 10
+        },
+        {
+            "pos": 955,
+            "team": "wolf",
+            "score": 10
+        },
+        {
+            "pos": 956,
+            "team": "canhchimvangden",
+            "score": 10
+        },
+        {
+            "pos": 957,
+            "team": "MiN@soloCTF",
+            "score": 10
+        },
+        {
+            "pos": 958,
+            "team": "Safe_Control_0",
+            "score": 10
+        },
+        {
+            "pos": 959,
+            "team": "suzu",
+            "score": 10
+        },
+        {
+            "pos": 960,
+            "team": "ch3cke",
+            "score": 10
+        },
+        {
+            "pos": 961,
+            "team": "w7w7",
+            "score": 10
+        },
+        {
+            "pos": 962,
+            "team": "Gebler",
+            "score": 10
+        },
+        {
+            "pos": 963,
+            "team": "HADIAR",
+            "score": 10
+        },
+        {
+            "pos": 964,
+            "team": "commander",
+            "score": 10
+        },
+        {
+            "pos": 965,
+            "team": "zing",
+            "score": 10
+        },
+        {
+            "pos": 966,
+            "team": "1nf1n1ty_rcs",
+            "score": 10
+        },
+        {
+            "pos": 967,
+            "team": "sakana",
+            "score": 10
+        },
+        {
+            "pos": 968,
+            "team": "Malware Inquisition",
+            "score": 10
+        },
+        {
+            "pos": 969,
+            "team": "sda1",
+            "score": 10
+        },
+        {
+            "pos": 970,
+            "team": "yajusenpai",
+            "score": 10
+        },
+        {
+            "pos": 971,
+            "team": "OperationFireball",
+            "score": 10
+        },
+        {
+            "pos": 972,
+            "team": "RetroFusionists",
+            "score": 10
+        },
+        {
+            "pos": 973,
+            "team": "rwandi",
+            "score": 10
+        },
+        {
+            "pos": 974,
+            "team": "H3lp Pl3453",
+            "score": 10
+        },
+        {
+            "pos": 975,
+            "team": "r00t",
+            "score": 10
+        },
+        {
+            "pos": 976,
+            "team": "abund4nt",
+            "score": 10
+        },
+        {
+            "pos": 977,
+            "team": "flyingwombat",
+            "score": 10
+        },
+        {
+            "pos": 978,
+            "team": "m4l",
+            "score": 10
+        },
+        {
+            "pos": 979,
+            "team": "n00bi3",
+            "score": 10
+        },
+        {
+            "pos": 980,
+            "team": "N0N@me13",
+            "score": 10
+        },
+        {
+            "pos": 981,
+            "team": "Astra",
+            "score": 10
+        },
+        {
+            "pos": 982,
+            "team": "p3rf3ctr00t_ke",
+            "score": 10
+        },
+        {
+            "pos": 983,
+            "team": "SCTSC",
+            "score": 10
+        },
+        {
+            "pos": 984,
+            "team": "rojla",
+            "score": 10
+        },
+        {
+            "pos": 985,
+            "team": "NXLL1",
+            "score": 10
+        },
+        {
+            "pos": 986,
+            "team": "0xcrusher@killer",
+            "score": 10
+        },
+        {
+            "pos": 987,
+            "team": "nitefight",
+            "score": 10
+        },
+        {
+            "pos": 988,
+            "team": "qingsi",
+            "score": 10
+        },
+        {
+            "pos": 989,
+            "team": "larshson",
+            "score": 10
+        },
+        {
+            "pos": 990,
+            "team": "h4ckm4sse",
+            "score": 10
+        },
+        {
+            "pos": 991,
+            "team": "anqa",
+            "score": 10
+        },
+        {
+            "pos": 992,
+            "team": "Cla55N0tF0und",
+            "score": 10
+        },
+        {
+            "pos": 993,
+            "team": "Alan",
+            "score": 10
+        },
+        {
+            "pos": 994,
+            "team": "strn solo run",
+            "score": 10
+        },
+        {
+            "pos": 995,
+            "team": "Hash Dogs",
+            "score": 10
+        },
+        {
+            "pos": 996,
+            "team": "TimeRoom",
+            "score": 10
+        },
+        {
+            "pos": 997,
+            "team": "SCTAAAAAX",
+            "score": 10
+        },
+        {
+            "pos": 998,
+            "team": "Ojashi",
+            "score": 10
+        },
+        {
+            "pos": 999,
+            "team": "yashu",
+            "score": 10
+        },
+        {
+            "pos": 1000,
+            "team": "S1cMundus",
+            "score": 10
+        },
+        {
+            "pos": 1001,
+            "team": "k0shka",
+            "score": 10
+        },
+        {
+            "pos": 1002,
+            "team": "RBOC",
+            "score": 10
+        },
+        {
+            "pos": 1003,
+            "team": "hak",
+            "score": 10
+        },
+        {
+            "pos": 1004,
+            "team": "s34_H4wK",
+            "score": 10
+        },
+        {
+            "pos": 1005,
+            "team": "rootpwn_",
+            "score": 10
+        },
+        {
+            "pos": 1006,
+            "team": "1ndex",
+            "score": 10
+        },
+        {
+            "pos": 1007,
+            "team": "rapi sutanto",
+            "score": 10
+        },
+        {
+            "pos": 1008,
+            "team": "Divya_chau",
+            "score": 10
+        },
+        {
+            "pos": 1009,
+            "team": "trapwire",
+            "score": 10
+        },
+        {
+            "pos": 1010,
+            "team": "r00@localhost",
+            "score": 10
+        },
+        {
+            "pos": 1011,
+            "team": "Seventy",
+            "score": 10
+        },
+        {
+            "pos": 1012,
+            "team": "0x0",
+            "score": 10
+        },
+        {
+            "pos": 1013,
+            "team": "sdafasdfasd",
+            "score": 10
+        },
+        {
+            "pos": 1014,
+            "team": "D3c0d3 M3",
+            "score": 10
+        },
+        {
+            "pos": 1015,
+            "team": "7azofli9",
+            "score": 10
+        },
+        {
+            "pos": 1016,
+            "team": "KXTI_beda",
+            "score": 10
+        },
+        {
+            "pos": 1017,
+            "team": "Killers",
+            "score": 10
+        },
+        {
+            "pos": 1018,
+            "team": "PissEasy",
+            "score": 10
+        },
+        {
+            "pos": 1019,
+            "team": "zer0toh3ro",
+            "score": 10
+        },
+        {
+            "pos": 1020,
+            "team": "NotSafeForWeb",
+            "score": 10
+        },
+        {
+            "pos": 1021,
+            "team": "Sinister Script",
+            "score": 10
+        },
+        {
+            "pos": 1022,
+            "team": "AreDaYush?",
+            "score": 10
+        },
+        {
+            "pos": 1023,
+            "team": "bawc",
+            "score": 10
+        },
+        {
+            "pos": 1024,
+            "team": "moop",
+            "score": 10
+        },
+        {
+            "pos": 1025,
+            "team": "0x5h4d0w`",
+            "score": 10
+        },
+        {
+            "pos": 1026,
+            "team": "ITMOteam",
+            "score": 10
+        },
+        {
+            "pos": 1027,
+            "team": "2009curly@soscandia.org",
+            "score": 10
+        },
+        {
+            "pos": 1028,
+            "team": "FITSEC",
+            "score": 10
+        },
+        {
+            "pos": 1029,
+            "team": "CoffeeBreak",
+            "score": 10
+        },
+        {
+            "pos": 1030,
+            "team": "tenn1s",
+            "score": 10
+        },
+        {
+            "pos": 1031,
+            "team": "pwn4sh",
+            "score": 10
+        },
+        {
+            "pos": 1032,
+            "team": "Coral",
+            "score": 10
+        },
+        {
+            "pos": 1033,
+            "team": "CyberShark123",
+            "score": 10
+        },
+        {
+            "pos": 1034,
+            "team": "0WeArePWNED0",
+            "score": 10
+        },
+        {
+            "pos": 1035,
+            "team": "AnnHack",
+            "score": 10
+        },
+        {
+            "pos": 1036,
+            "team": "yabh",
+            "score": 10
+        },
+        {
+            "pos": 1037,
+            "team": "Randwes",
+            "score": 10
+        },
+        {
+            "pos": 1038,
+            "team": "0dayexploitz",
+            "score": 10
+        },
+        {
+            "pos": 1039,
+            "team": "india",
+            "score": 10
+        },
+        {
+            "pos": 1040,
+            "team": "jksdfhlsjkadf",
+            "score": 10
+        },
+        {
+            "pos": 1041,
+            "team": "r0z0",
+            "score": 10
+        },
+        {
+            "pos": 1042,
+            "team": "nofriends",
+            "score": 10
+        },
+        {
+            "pos": 1043,
+            "team": "zear",
+            "score": 10
+        },
+        {
+            "pos": 1044,
+            "team": "Sage",
+            "score": 10
+        },
+        {
+            "pos": 1045,
+            "team": "Dionysos",
+            "score": 10
+        },
+        {
+            "pos": 1046,
+            "team": "brigada",
+            "score": 10
+        },
+        {
+            "pos": 1047,
+            "team": "PTIT",
+            "score": 10
+        },
+        {
+            "pos": 1048,
+            "team": "catlol",
+            "score": 10
+        },
+        {
+            "pos": 1049,
+            "team": "Pluto",
+            "score": 10
+        },
+        {
+            "pos": 1050,
+            "team": "admin",
+            "score": 10
+        },
+        {
+            "pos": 1051,
+            "team": "PokeDokey",
+            "score": 10
+        },
+        {
+            "pos": 1052,
+            "team": "n00bTeam",
+            "score": 10
+        },
+        {
+            "pos": 1053,
+            "team": "hengker gacor",
+            "score": 10
+        },
+        {
+            "pos": 1054,
+            "team": "m1nt4l1ty",
+            "score": 10
+        },
+        {
+            "pos": 1055,
+            "team": "r0s3s",
+            "score": 10
+        },
+        {
+            "pos": 1056,
+            "team": "Techies",
+            "score": 10
+        },
+        {
+            "pos": 1057,
+            "team": "poiu",
+            "score": 10
+        },
+        {
+            "pos": 1058,
+            "team": "Masters of the Galaxy",
+            "score": 10
+        },
+        {
+            "pos": 1059,
+            "team": "ALL SAFE",
+            "score": 10
+        },
+        {
+            "pos": 1060,
+            "team": "ICP",
+            "score": 10
+        },
+        {
+            "pos": 1061,
+            "team": "\u5929\u7167\u5927\u795e",
+            "score": 10
+        },
+        {
+            "pos": 1062,
+            "team": "anton222",
+            "score": 10
+        },
+        {
+            "pos": 1063,
+            "team": "people",
+            "score": 10
+        },
+        {
+            "pos": 1064,
+            "team": "drexel_dub",
+            "score": 10
+        },
+        {
+            "pos": 1065,
+            "team": "F4lse_Positives",
+            "score": 10
+        },
+        {
+            "pos": 1066,
+            "team": "cekkhodam",
+            "score": 10
+        },
+        {
+            "pos": 1067,
+            "team": "Glitch",
+            "score": 10
+        },
+        {
+            "pos": 1068,
+            "team": "Ratata",
+            "score": 10
+        },
+        {
+            "pos": 1069,
+            "team": "nwvodp",
+            "score": 10
+        },
+        {
+            "pos": 1070,
+            "team": "********",
+            "score": 10
+        },
+        {
+            "pos": 1071,
+            "team": "natko",
+            "score": 10
+        },
+        {
+            "pos": 1072,
+            "team": "tmptmptmptmptmptmptmptmpt",
+            "score": 10
+        },
+        {
+            "pos": 1073,
+            "team": "Guava Dosa",
+            "score": 10
+        },
+        {
+            "pos": 1074,
+            "team": "stderr0r",
+            "score": 10
+        },
+        {
+            "pos": 1075,
+            "team": "Crypto Knight",
+            "score": 10
+        },
+        {
+            "pos": 1076,
+            "team": "QWERTY",
+            "score": 10
+        },
+        {
+            "pos": 1077,
+            "team": "twiss",
+            "score": 10
+        },
+        {
+            "pos": 1078,
+            "team": "We Love Krish",
+            "score": 10
+        },
+        {
+            "pos": 1079,
+            "team": "nadiradzee",
+            "score": 10
+        },
+        {
+            "pos": 1080,
+            "team": "Grish@Squad",
+            "score": 10
+        },
+        {
+            "pos": 1081,
+            "team": "Hardware Is Killing Me",
+            "score": 10
+        },
+        {
+            "pos": 1082,
+            "team": "Num3R0n4u7s",
+            "score": 10
+        },
+        {
+            "pos": 1083,
+            "team": "PunchClub",
+            "score": 10
+        },
+        {
+            "pos": 1084,
+            "team": "B\u0302-hat",
+            "score": 10
+        },
+        {
+            "pos": 1085,
+            "team": "hehe",
+            "score": 10
+        },
+        {
+            "pos": 1086,
+            "team": "Keep Trying",
+            "score": 10
+        },
+        {
+            "pos": 1087,
+            "team": "udnap",
+            "score": 10
+        },
+        {
+            "pos": 1088,
+            "team": "Apocalypse_Me0w",
+            "score": 10
+        },
+        {
+            "pos": 1089,
+            "team": "TheSharks",
+            "score": 10
+        },
+        {
+            "pos": 1090,
+            "team": "Creeper",
+            "score": 10
+        },
+        {
+            "pos": 1091,
+            "team": "x",
+            "score": 10
+        },
+        {
+            "pos": 1092,
+            "team": "[];",
+            "score": 10
+        },
+        {
+            "pos": 1093,
+            "team": "ref8",
+            "score": 10
+        },
+        {
+            "pos": 1094,
+            "team": "myself",
+            "score": 10
+        },
+        {
+            "pos": 1095,
+            "team": "Pouls Friends",
+            "score": 10
+        },
+        {
+            "pos": 1096,
+            "team": "yossiii050",
+            "score": 10
+        },
+        {
+            "pos": 1097,
+            "team": "secsyst",
+            "score": 10
+        },
+        {
+            "pos": 1098,
+            "team": "Hollow Knights",
+            "score": 10
+        },
+        {
+            "pos": 1099,
+            "team": "skyber",
+            "score": 10
+        },
+        {
+            "pos": 1100,
+            "team": "sleep",
+            "score": 10
+        },
+        {
+            "pos": 1101,
+            "team": "Eveheeero",
+            "score": 10
+        },
+        {
+            "pos": 1102,
+            "team": "balls",
+            "score": 10
+        },
+        {
+            "pos": 1103,
+            "team": "metting",
+            "score": 10
+        },
+        {
+            "pos": 1104,
+            "team": "Flag Force",
+            "score": 10
+        },
+        {
+            "pos": 1105,
+            "team": "chill_guys",
+            "score": 10
+        },
+        {
+            "pos": 1106,
+            "team": "brain4ctivity",
+            "score": 10
+        },
+        {
+            "pos": 1107,
+            "team": "NotHotdog",
+            "score": 10
+        },
+        {
+            "pos": 1108,
+            "team": "SIGSEGV",
+            "score": 10
+        },
+        {
+            "pos": 1109,
+            "team": "Solo Q",
+            "score": 10
+        },
+        {
+            "pos": 1110,
+            "team": "xr0o0tx",
+            "score": 10
+        },
+        {
+            "pos": 1111,
+            "team": "firsttofindflagisgay",
+            "score": 10
+        },
+        {
+            "pos": 1112,
+            "team": "roommates",
+            "score": 10
+        },
+        {
+            "pos": 1113,
+            "team": "hehehe",
+            "score": 10
+        },
+        {
+            "pos": 1114,
+            "team": "highvoltage",
+            "score": 10
+        },
+        {
+            "pos": 1115,
+            "team": "GopherHack",
+            "score": 10
+        },
+        {
+            "pos": 1116,
+            "team": "niap",
+            "score": 10
+        },
+        {
+            "pos": 1117,
+            "team": "adfasd",
+            "score": 10
+        },
+        {
+            "pos": 1118,
+            "team": "Meowtopia",
+            "score": 10
+        },
+        {
+            "pos": 1119,
+            "team": "languid2318",
+            "score": 10
+        },
+        {
+            "pos": 1120,
+            "team": "bobi",
+            "score": 10
+        },
+        {
+            "pos": 1121,
+            "team": "Team XO",
+            "score": 10
+        },
+        {
+            "pos": 1122,
+            "team": "cjh1212",
+            "score": 10
+        },
+        {
+            "pos": 1123,
+            "team": "soupdrinkers",
+            "score": 10
+        },
+        {
+            "pos": 1124,
+            "team": "Team Spiryt",
+            "score": 10
+        },
+        {
+            "pos": 1125,
+            "team": "TheMythologist",
+            "score": 10
+        },
+        {
+            "pos": 1126,
+            "team": "linganguli guli guli",
+            "score": 10
+        },
+        {
+            "pos": 1127,
+            "team": "ChocoB",
+            "score": 10
+        },
+        {
+            "pos": 1128,
+            "team": "Triada",
+            "score": 10
+        },
+        {
+            "pos": 1129,
+            "team": "PARSECT",
+            "score": 10
+        },
+        {
+            "pos": 1130,
+            "team": "HoonSolohan",
+            "score": 10
+        },
+        {
+            "pos": 1131,
+            "team": "ZenBytes",
+            "score": 10
+        },
+        {
+            "pos": 1132,
+            "team": "Gh0xE9",
+            "score": 10
+        },
+        {
+            "pos": 1133,
+            "team": "cxb",
+            "score": 10
+        },
+        {
+            "pos": 1134,
+            "team": "jatziri.ayli",
+            "score": 10
+        },
+        {
+            "pos": 1135,
+            "team": "hehe1337",
+            "score": 10
+        },
+        {
+            "pos": 1136,
+            "team": "4GUn7uk",
+            "score": 10
+        },
+        {
+            "pos": 1137,
+            "team": "d4rkcl0ud",
+            "score": 10
+        },
+        {
+            "pos": 1138,
+            "team": "jimenavillanueva",
+            "score": 10
+        },
+        {
+            "pos": 1139,
+            "team": "BBQS",
+            "score": 10
+        },
+        {
+            "pos": 1140,
+            "team": "Ekho",
+            "score": 10
+        },
+        {
+            "pos": 1141,
+            "team": "name",
+            "score": 10
+        },
+        {
+            "pos": 1142,
+            "team": "zk",
+            "score": 10
+        },
+        {
+            "pos": 1143,
+            "team": "k3kp0g",
+            "score": 10
+        },
+        {
+            "pos": 1144,
+            "team": "noam",
+            "score": 10
+        },
+        {
+            "pos": 1145,
+            "team": "sokoly",
+            "score": 10
+        },
+        {
+            "pos": 1146,
+            "team": "BajrangBali",
+            "score": 10
+        },
+        {
+            "pos": 1147,
+            "team": "Wincr4ck",
+            "score": 10
+        },
+        {
+            "pos": 1148,
+            "team": "kevin",
+            "score": 10
+        },
+        {
+            "pos": 1149,
+            "team": "Solo Molo",
+            "score": 10
+        },
+        {
+            "pos": 1150,
+            "team": "helloworld",
+            "score": 10
+        },
+        {
+            "pos": 1151,
+            "team": "FAN",
+            "score": 10
+        },
+        {
+            "pos": 1152,
+            "team": "Riki",
+            "score": 10
+        },
+        {
+            "pos": 1153,
+            "team": "d4rkc0de",
+            "score": 10
+        },
+        {
+            "pos": 1154,
+            "team": "kua",
+            "score": 10
+        },
+        {
+            "pos": 1155,
+            "team": "45",
+            "score": 10
+        },
+        {
+            "pos": 1156,
+            "team": "Find_Fla9",
+            "score": 10
+        },
+        {
+            "pos": 1157,
+            "team": "MCS",
+            "score": 10
+        },
+        {
+            "pos": 1158,
+            "team": "hackman",
+            "score": 10
+        },
+        {
+            "pos": 1159,
+            "team": "suspect",
+            "score": 10
+        },
+        {
+            "pos": 1160,
+            "team": "TN",
+            "score": 10
+        },
+        {
+            "pos": 1161,
+            "team": "L1x",
+            "score": 10
+        },
+        {
+            "pos": 1162,
+            "team": "NTAuthority",
+            "score": 10
+        },
+        {
+            "pos": 1163,
+            "team": "xx283109",
+            "score": 10
+        },
+        {
+            "pos": 1164,
+            "team": "nvkiero",
+            "score": 10
+        },
+        {
+            "pos": 1165,
+            "team": "J0RD4N_H4CK3RS\ud83c\uddf5\ud83c\uddf8",
+            "score": 10
+        },
+        {
+            "pos": 1166,
+            "team": "qqq",
+            "score": 10
+        },
+        {
+            "pos": 1167,
+            "team": "Pixel Pioneer",
+            "score": 10
+        },
+        {
+            "pos": 1168,
+            "team": "Team Heisenberg",
+            "score": 10
+        },
+        {
+            "pos": 1169,
+            "team": "c0d3_r3d",
+            "score": 10
+        },
+        {
+            "pos": 1170,
+            "team": "ssr",
+            "score": 10
+        },
+        {
+            "pos": 1171,
+            "team": "whilefalsebr8",
+            "score": 10
+        },
+        {
+            "pos": 1172,
+            "team": "4ewvr",
+            "score": 10
+        },
+        {
+            "pos": 1173,
+            "team": "a",
+            "score": 10
+        },
+        {
+            "pos": 1174,
+            "team": "erve",
+            "score": 10
+        }
+    ]
+}
