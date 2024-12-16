@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block title %}Shop - Charlie's Chocolate Factory{% endblock %}
+
+{% block content %}
+<section class="products">
+    <h2>Our Chocolate Collection</h2>
+    <ul>
+        {% for product in products %}
+        <li>
+            <h3>{{ product.name }}</h3>
+            <p>{{ product.description }}</p>
+            <p>Price: ${{ product.price }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endblock %}

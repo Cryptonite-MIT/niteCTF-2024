@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Oogle</title>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 0;
+            }
+
+            .container {
+                display: flex;
+                align-items: center;
+            }
+
+            .inner {
+                max-width: 800px;
+                margin: 50px auto;
+                text-align: center;
+            }
+
+            h1 {
+                color: #333;
+            }
+
+            a {
+                display: inline-block;
+                margin-top: 20px;
+                padding: 10px 20px;
+                background-color: #007bff;
+                color: #fff;
+                text-decoration: none;
+                border-radius: 5px;
+                transition: background-color 0.3s;
+            }
+
+            a:hover {
+                background-color: #0056b3;
+            }
+
+            .google {
+                font-family: "Noto Sans", sans-serif;
+                font-size: 6rem;
+            }
+
+            .search-inner {
+                width: 140%;
+                max-width: 800px;
+                display: inline;
+            }
+
+            .search-input {
+                width: 25rem;
+                padding: 10px 25px;
+                margin-right: 10px;
+                border: 1px solid #dcdcdc;
+                border-radius: 24px;
+                box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+                font-size: 16px;
+                outline: none;
+                transition: border 0.2s;
+                display: inline;
+            }
+
+            .search-input:focus {
+                border-color: #4285f4;
+                box-shadow: 0 0 5px rgba(66, 133, 244, 0.5);
+            }
+
+            .right {
+                display: flex;
+                justify-content: end;
+                margin-right: 1rem;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="right">
+            {% if loggedin %}<a href="/logout">Logout</a> {% else %}<a
+                href="/login"
+                >Login</a
+            >
+            {% endif %}
+        </div>
+        <div class="container">
+            <div class="inner">
+                <h1 class="google">Oogle&trade;</h1>
+                <form method="POST">
+                    <div class="search-inner">
+                        <input type="text" class="search-input" name="query" />
+                        <input type="submit" value="🔍" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>

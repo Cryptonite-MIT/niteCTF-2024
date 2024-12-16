@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server C - Logged In</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        h1, h2, p {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Logged In</h1>
+        <p>Welcome, {{ username }}! You are authenticated.</p>
+        {% for item in items %}
+        <form action="/add_to_cart" method="post">
+            <input type="hidden" name="item_id" value="{{ item.id }}">
+            <button type="submit">+ Add {{ item.name }} to Cart (Price: {{ item.price }})</button>
+        </form>
+        {% endfor %}
+        <p>
+            <a href="/view_cart">View Cart</a> |
+            <a href="/logout">Logout</a>
+        </p>
+    </div>
+</body>
+</html>

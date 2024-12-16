@@ -1,0 +1,167 @@
+From dede4307fc779ad26ca2265068a02c4783e3a0aa Mon Sep 17 00:00:00 2001
+From: Skryptonyte <rayhan.faizel@gmail.com>
+Date: Fri, 13 Dec 2024 14:23:04 +0530
+Subject: [PATCH] Add PCI device
+
+---
+ hw/misc/Kconfig     |   5 ++
+ hw/misc/meson.build |   2 +
+ hw/misc/nite_pci.c  | 121 ++++++++++++++++++++++++++++++++++++++++++++
+ 3 files changed, 128 insertions(+)
+ create mode 100644 hw/misc/nite_pci.c
+
+diff --git a/hw/misc/Kconfig b/hw/misc/Kconfig
+index 1f1baa5dde..572d8747ae 100644
+--- a/hw/misc/Kconfig
++++ b/hw/misc/Kconfig
+@@ -215,4 +215,9 @@ config IOSB
+ config XLNX_VERSAL_TRNG
+     bool
+ 
++config NITE
++    bool
++    default y
++    depends on PCI
++
+ source macio/Kconfig
+diff --git a/hw/misc/meson.build b/hw/misc/meson.build
+index d02d96e403..93e5202196 100644
+--- a/hw/misc/meson.build
++++ b/hw/misc/meson.build
+@@ -152,3 +152,5 @@ system_ss.add(when: 'CONFIG_SBSA_REF', if_true: files('sbsa_ec.c'))
+ 
+ # HPPA devices
+ system_ss.add(when: 'CONFIG_LASI', if_true: files('lasi.c'))
++
++system_ss.add(when: 'CONFIG_NITE', if_true: files('nite_pci.c'))
+\ No newline at end of file
+diff --git a/hw/misc/nite_pci.c b/hw/misc/nite_pci.c
+new file mode 100644
+index 0000000000..f6dd0d631e
+--- /dev/null
++++ b/hw/misc/nite_pci.c
+@@ -0,0 +1,121 @@
++#include "qemu/osdep.h"
++#include "hw/pci/pci_device.h"
++#include "hw/qdev-properties.h"
++#include "qemu/event_notifier.h"
++#include "qemu/module.h"
++#include "sysemu/kvm.h"
++#include "qom/object.h"
++
++struct SomeObjectState {
++    /*< private >*/
++    Object parent_obj;
++
++    /* We will do something here later maybe */
++};
++
++#define TYPE_NITE_PCI_SOME_OBJECT "someobj"
++
++OBJECT_DECLARE_SIMPLE_TYPE(SomeObjectState, NITE_PCI_SOME_OBJECT)
++
++struct PCINiteDevState {
++    /*< private >*/
++    PCIDevice parent_obj;
++
++    /*< public >*/
++    SomeObjectState obj1;
++    int32_t mem[32];
++    int32_t addr;
++};
++
++#define TYPE_NITE_PCI_DEV "nite-pci"
++
++OBJECT_DECLARE_SIMPLE_TYPE(PCINiteDevState, NITE_PCI_DEV)
++
++
++static uint32_t nite_config_read(PCIDevice *dev,
++                                 uint32_t addr, int len)
++{
++    PCINiteDevState *nitedev = NITE_PCI_DEV(dev);
++
++    if (addr == 0xe4) {
++        if (nitedev->addr >= 32)
++            return 0xffffffff;
++        return nitedev->mem[nitedev->addr];
++    } else {
++        return pci_default_read_config(dev, addr, len);
++    }
++}
++
++static void nite_config_write(PCIDevice *dev,
++                                    uint32_t addr, uint32_t val, int len)
++{
++    PCINiteDevState *nitedev = NITE_PCI_DEV(dev);
++
++    if (addr == 0xe0) {
++        nitedev->addr = val; 
++    } else if (addr == 0xe4) {
++        if (nitedev->addr >= 32)
++            return;
++        nitedev->mem[nitedev->addr] = val;
++    } else {
++        pci_default_write_config(dev, addr, val, len);
++    }
++}
++
++static void nite_realize(PCIDevice *dev, Error **errp)
++{
++    PCINiteDevState *nitedev = NITE_PCI_DEV(dev);
++    object_initialize_child(OBJECT(dev), "someobject", &nitedev->obj1, TYPE_NITE_PCI_SOME_OBJECT);
++
++    for (int i = 0; i < 32; i++) {
++        nitedev->mem[i] = 0x0;
++    }
++
++    nitedev->addr = 0;
++}
++
++static void nite_pci_class_init(ObjectClass *klass, void *data)
++{
++    DeviceClass *dc = DEVICE_CLASS(klass);
++    PCIDeviceClass *k = PCI_DEVICE_CLASS(klass);
++
++    k->config_write = nite_config_write;
++    k->config_read = nite_config_read;
++    k->realize = nite_realize;
++    k->vendor_id = 0x6969;
++    k->device_id = 0x6969;
++    k->revision = 0x00;
++    k->class_id = PCI_CLASS_OTHERS;
++    dc->desc = "NiteCTF 2024 - Just a PCI device :D";
++}
++
++static void obj_class_init(ObjectClass *klass, void *data)
++{
++
++}
++
++static const TypeInfo obj_info = {
++    .name          = TYPE_NITE_PCI_SOME_OBJECT,
++    .parent        = TYPE_OBJECT,
++    .instance_size = sizeof(SomeObjectState),
++    .class_init    = obj_class_init,
++};
++
++static const TypeInfo nite_pci_info = {
++    .name          = TYPE_NITE_PCI_DEV,
++    .parent        = TYPE_PCI_DEVICE,
++    .instance_size = sizeof(PCINiteDevState),
++    .class_init    = nite_pci_class_init,
++    .interfaces = (InterfaceInfo[]) {
++        { INTERFACE_CONVENTIONAL_PCI_DEVICE },
++        { },
++    },
++};
++
++static void nite_pci_register_types(void)
++{
++    type_register_static(&obj_info);
++    type_register_static(&nite_pci_info);
++}
++
++type_init(nite_pci_register_types)
+-- 
+2.46.0
+

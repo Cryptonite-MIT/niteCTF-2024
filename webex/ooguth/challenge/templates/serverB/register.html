@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Oogle | Register</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                height: 100vh;
+                align-items: center;
+            }
+            .container {
+                max-width: 400px;
+                margin: 50px auto;
+                padding: 20px;
+                background-color: #fff;
+                border-radius: 5px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+                text-align: center;
+            }
+            h1 {
+                color: #333;
+            }
+            form {
+                margin-top: 20px;
+            }
+            label {
+                display: block;
+                margin-bottom: 5px;
+                font-weight: bold;
+            }
+            input[type="text"],
+            input[type="password"] {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                box-sizing: border-box;
+            }
+            button {
+                padding: 10px 20px;
+                background-color: #007bff;
+                color: #fff;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: background-color 0.3s;
+            }
+            button:hover {
+                background-color: #0056b3;
+            }
+            .message {
+                margin-top: 20px;
+                color: #dc3545;
+            }
+            .success-message {
+                color: #28a745;
+            }
+            a {
+                color: #007bff;
+                text-decoration: none;
+                font-weight: bold;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Oogle | Register</h1>
+            <form
+                action="/register{{ '?redirectTo=' ~ request.args.get('redirectTo') if request.args.get('redirectTo') }}&scope={{ request.args.get('scope') if request.args.get('scope') else 'profile' }}"
+                method="POST"
+            >
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required />
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required />
+                <button type="submit">Register</button>
+            </form>
+            {% if error_message %}
+            <p class="message">{{ error_message }}</p>
+            {% endif %}
+            <hr />
+            <p>
+                Already have an account?
+                <a
+                    href="/login{{ '?redirectTo=' ~ request.args.get('redirectTo') if request.args.get('redirectTo') }}&scope={{ request.args.get('scope') if request.args.get('scope') else 'profile' }}"
+                    >Login here</a
+                >
+            </p>
+        </div>
+    </body>
+</html>

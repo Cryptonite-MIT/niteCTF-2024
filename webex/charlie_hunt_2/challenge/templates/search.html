@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Charlie's Chocolate Factory</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+    <script defer src="{{ url_for('static', filename='scripts.js') }}"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Charlie's Chocolate Factory</h1>
+      <section class="login">
+        <form method="GET" action="{{ url_for('login') }}" style="padding: 0px">
+          <button type="submit">login</button>
+        </form>
+      </section>
+    </header>
+
+    <section class="intro">
+      <h2>Welcome to the World of Chocolates {{ username | e }}!</h2>
+
+      <p>Indulge in the finest chocolates hand-crafted by Charlie himself.</p>
+    </section>
+
+    <section class="search">
+      <form method="GET" action="{{ url_for('home') }}">
+        <input
+          type="text"
+          name="query"
+          placeholder="Search for chocolates..."
+          value="{{ request.args.get('query', '') }}"
+        />
+        <button type="submit">Search</button>
+      </form>
+    </section>
+
+    <section class="products">
+      <h2>Our Chocolate Collection</h2>
+      <div class="product-list">
+        {% for product in products %}
+        <div class="product-item">
+          <img src="{{ product.image }}" alt="{{ product.name }}" />
+          <h3>{{ product.name }}</h3>
+          <p>{{ product.description }}</p>
+          <p>Price: ${{ product.price }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section class="reviews">
+      <h2>Leave a Review</h2>
+      <div class="star-rating">
+        <span class="star" data-value="1">&#9733;</span>
+        <span class="star" data-value="2">&#9733;</span>
+        <span class="star" data-value="3">&#9733;</span>
+        <span class="star" data-value="4">&#9733;</span>
+        <span class="star" data-value="5">&#9733;</span>
+      </div>
+      <p id="rating-message"></p>
+    </section>
+
+    <footer>
+      <p>&copy; 2024 Charlie's Chocolate Factory. All Rights Reserved.</p>
+    </footer>
+  </body>
+</html>

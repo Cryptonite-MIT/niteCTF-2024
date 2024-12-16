@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="UTF-8">
+    <title>Vaultify</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <meta name="view-transition" content="same-origin" />
+    <link href="./style.css" rel="stylesheet">
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self'; object-src 'none'; frame-src 'none'; style-src 'self' fonts.googleapis.com;">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&display=swap" rel="stylesheet">
+    <script src="./script.js"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header id="header-section">
+        <h1>Vault</h1>
+        <h2>The only vault you will ever need.</h2>
+      </header>
+      <div id="passcode-entry-wrapper">
+        <div>
+        <h3>What is your pass code:</h3>
+        </div>
+        <div id="passcode-pad">
+        <button id="press-0" data-val="0">0</button>
+        <button id="press-1" data-val="1">1</button>
+        <button id="press-2" data-val="2">2</button>
+        <button id="press-3" data-val="3">3</button>
+        <button id="press-4" data-val="4">4</button>
+        <button id="press-5" data-val="5">5</button>
+        <button id="press-6" data-val="6">6</button>
+        <button id="press-7" data-val="7">7</button>
+        <button id="press-8" data-val="8">8</button>
+        <button id="press-9" data-val="9">9</button>
+        <button id="press-a" data-val="a">a</button>
+        <button id="press-b" data-val="b">b</button>
+        <button id="press-c" data-val="c">c</button>
+        <button id="press-d" data-val="d">d</button>
+        <button id="press-e" data-val="e">e</button>
+        <button id="press-f" data-val="f">f</button>
+        </div>
+        <div id="passcode-wrapper">
+        <button id="last-passcode">Show last passcode</button>
+        <button id="retrieve">Retrieve</button>
+        <button id="save-new-secret">Save new vault secret</button>
+        </div>
+      </div>
+      <footer id="ad">We are also working on a experimental iframe-based JS API as of version 0.0.1. Feel free check it out and report any issues you face.</footer>
+    </div>
+  </body>
+</html>

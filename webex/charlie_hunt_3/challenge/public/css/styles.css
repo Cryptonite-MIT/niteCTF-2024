@@ -1,0 +1,177 @@
+/* Variables for consistent colors and values */
+:root {
+  --primary-color: #47302b;
+  --primary-dark: #2e1810;
+  --background-light: #ffe6cc;
+  --border-color: #8b4513;
+  --text-color: #2e1810;
+  --white: #ffecd9;
+  --shadow: rgba(0, 0, 0, 0.1);
+  --spacing-base: 8px;
+  --spacing-medium: 15px;
+  --spacing-large: 20px;
+  --border-radius: 4px;
+  --error-bg: #ffe6cc;
+  --error-text: #47302b;
+  --success-bg: #d4edda;
+  --success-text: #155724;
+}
+/* Reset and base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: var(--white);
+  font-family: Arial, sans-serif;
+  color: var(--text-color);
+  padding: var(--spacing-large);
+  line-height: 1.6;
+}
+/* Typography */
+h1,
+h2,
+h3 {
+  color: var(--primary-color);
+  margin-bottom: var(--spacing-medium);
+  line-height: 1.2;
+}
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+a:hover {
+  text-decoration: underline;
+  color: var(--primary-dark);
+}
+/* Container */
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: var(--spacing-large);
+  background-color: var(--background-light);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px var(--spacing-base) var(--shadow);
+}
+/* Form elements */
+form {
+  background-color: var(--background-light);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: var(--spacing-medium);
+  box-shadow: 0 4px var(--spacing-base) var(--shadow);
+}
+/* Form groups and labels */
+.form-group {
+  margin-bottom: var(--spacing-medium);
+}
+label {
+  display: block;
+  margin-bottom: var(--spacing-base);
+  color: var(--text-color);
+  font-weight: 500;
+}
+/* Input fields */
+input[type="text"],
+input[type="password"],
+select,
+textarea,
+input[type="submit"] {
+  width: 100%;
+  padding: var(--spacing-base);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  background-color: var(--white);
+  font-size: 14px;
+  box-sizing: border-box;
+}
+/* Textarea customization */
+textarea {
+  min-height: 20px;
+  resize: vertical;
+}
+/* Input focus styles */
+input[type="text"]:focus,
+input[type="password"]:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--primary-color);
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(71, 48, 43, 0.1);
+}
+/* Submit button styling */
+input[type="submit"] {
+  background-color: var(--primary-color);
+  color: var(--white);
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  padding: calc(var(--spacing-base) + 2px) var(--spacing-medium);
+}
+input[type="submit"]:hover {
+  background-color: var(--primary-dark);
+}
+/* Additional link and button styles */
+.nav-links,
+.admin-links {
+  display: flex;
+  gap: var(--spacing-medium);
+  align-items: center;
+}
+.nav-links {
+  justify-content: space-between;
+  margin-bottom: var(--spacing-large);
+}
+.back-link {
+  color: var(--text-color);
+  opacity: 0.7;
+}
+.back-link:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+.admin-link {
+  background-color: var(--background-light);
+  color: var(--text-color);
+  padding: var(--spacing-base) var(--spacing-medium);
+  border-radius: var(--border-radius);
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+.admin-link:hover {
+  background-color: var(--border-color);
+}
+/* Status messages */
+.upload-status {
+  margin-top: var(--spacing-medium);
+  padding: var(--spacing-base);
+  border-radius: var(--border-radius);
+}
+.upload-status.success {
+  background-color: var(--success-bg);
+  color: var(--success-text);
+}
+.upload-status.error {
+  background-color: var(--error-bg);
+  color: var(--error-text);
+}
+/* Responsive design */
+@media (max-width: 600px) {
+  .container,
+  form {
+    padding: var(--spacing-base);
+  }
+  .nav-links,
+  .admin-links {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  body {
+    padding: var(--spacing-base);
+  }
+}

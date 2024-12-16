@@ -1,0 +1,23 @@
+FROM debian:bookworm-slim
+
+RUN useradd --no-create-home -u 1000 user
+
+RUN apt update && \
+    apt install -y socat libc6 policycoreutils && \
+    rm -rf /var/lib/apt/lists/*
+
+WORKDIR /home/user/
+
+COPY chall ld-linux-x86-64.so.2 libc.so.6 flag.txt ./
+
+RUN chmod +x ./chall && \
+    chmod +x ./ld-linux-x86-64.so.2 && \
+    chmod +x ./libc.so.6 && \
+    chcon -t lib_t ./libc.so.6 && \
+    chcon -t lib_t ./ld-linux-x86-64.so.2 && \
+    chcon -t bin_t ./chall && \
+    chcon -t lib_t .
+
+USER user
+
+CMD socat -T60 TCP-LISTEN:1337,reuseaddr,fork EXEC:"./ld-linux-x86-64.so.2 --library-path /home/user/ ./chall"

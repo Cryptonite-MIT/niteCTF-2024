@@ -1,0 +1,8 @@
+dist/
+node_modules/
+types/
+.gitignore
+LICENSE
+package-lock.json
+README.md
+/package.json

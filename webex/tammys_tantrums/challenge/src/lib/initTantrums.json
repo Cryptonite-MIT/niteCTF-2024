@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Dramatic",
+        "description": "Always a scene!",
+        "date": "2024-12-07T10:00:00Z",
+        "_id": "1",
+        "isPrivate": false
+    },
+    {
+        "title": "Narc",
+        "description": "16/12 beach",
+        "date": "2024-12-07T10:02:00Z",
+        "_id": "2",
+        "isPrivate": false
+    },
+    {
+        "title": "Smort",
+        "description": "Too much smort",
+        "date": "2024-12-07T10:03:00Z",
+        "_id": "3",
+        "isPrivate": false
+    },
+    {
+        "title": "Bipooooooool",
+        "description": "Beach xo",
+        "date": "2024-12-07T10:06:00Z",
+        "_id": "4",
+        "isPrivate": false
+    },
+    {
+        "title": "Dreamy",
+        "description": "as hell!",
+        "date": "2024-12-07T10:07:00Z",
+        "_id": "5",
+        "isPrivate": false
+    },
+    {
+        "title": "TantRuMzzz",
+        "description": "🥁 Drumroll 🥁",
+        "date": "2024-12-07T10:10:00Z",
+        "_id": "6",
+        "isPrivate": false
+    },
+    {
+        "title": "TaMMy's",
+        "description": "Tammm-Mummy",
+        "date": "2024-12-07T10:11:00Z",
+        "_id": "7",
+        "isPrivate": false
+    }
+]

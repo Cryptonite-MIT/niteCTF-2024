@@ -1,0 +1,17 @@
+{
+  "name": "basic-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "2.0.2",
+    "express": "5.0.1",
+    "sequelize": "6.37.5",
+    "sqlite3": "5.1.7"
+  }
+}

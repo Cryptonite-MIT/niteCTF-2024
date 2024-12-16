@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Vaultify</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <meta name="view-transition" content="same-origin" />
+        <link href="./style.css" rel="stylesheet">
+        <meta http-equiv="Content-Security-Policy" content="script-src 'self'; object-src 'none'; frame-src 'none'; style-src 'self' fonts.googleapis.com;">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&display=swap" rel="stylesheet">
+        <script src="./script.js"></script>
+    </head>
+    <body>
+        <div id="wrapper">
+            <header id="header-section">
+                <h1>Vault</h1>
+                <h2>The only vault you will ever need.</h2>
+            </header>
+            <form id="vault" method="post" action="/vault_data">
+                <div id="vault-text-area-wrapper">
+                <textarea id="vault-text-area" name="note"></textarea>
+                </div>
+                <div id="submit-wrapper">
+                    <button type="submit" id="vault-submit">Save</button>
+                    <button id="back">Go back</button>
+                </div>
+            </form>
+            <footer id="ad">We are also working on a experimental iframe-based JS API as of version 0.0.1. Feel free check it out and report any issues you face.</footer>
+        </div>
+    </body>
+</html>

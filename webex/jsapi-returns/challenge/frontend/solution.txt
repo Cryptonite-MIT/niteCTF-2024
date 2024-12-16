@@ -1,0 +1,12 @@
+*** HACKING DETECTED ***
+
+Whatever you were doing was detected by our proprietary anti-hacking endpoint-protection service brought to you by CloudFalcon Inc.
+
+!!!Please don't try to use dirbuster or metasploit, this challenge does not require automated tools!!!
+
+The author recommends:
+This music video: https://www.youtube.com/watch?v=FtutLA63Cp8
+This cool website that definitely does not have anything to do with this challenge: https://xsleaks.dev
+This Wikipedia page that the author wrote, which again does not have anything to do with this challenge: https://en.wikipedia.org/wiki/Cross-site_leaks
+This other github repository that also has nothing to do with this challenge: https://github.com/sohomdatta1/jsapi-challenges
+

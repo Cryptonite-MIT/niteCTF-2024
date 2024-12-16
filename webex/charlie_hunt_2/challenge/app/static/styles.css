@@ -1,0 +1,327 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #f5e0c3;
+    color: #4d3e33;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3b2c2c;
+    color: #f9d342;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 0 20px;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 2em;
+}
+
+.login {
+    position: absolute;
+    right: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.intro {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.search {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.search input {
+    padding: 10px;
+    font-size: 1em;
+}
+
+.search button {
+    padding: 10px;
+    font-size: 1em;
+    background-color: #3b2c2c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.login input {
+    padding: 10px;
+    font-size: 1em;
+}
+
+.login button {
+    text-align: right;
+    padding: 10px;
+    font-size: 1em;
+    background-color: #3b2c2c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.products {
+    text-align: center;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.product-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.product-item:hover {
+    transform: scale(1.05);
+}
+
+.product-item img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #3b2c2c;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.star-rating {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.star {
+    font-size: 2em;
+    cursor: pointer;
+    color: #ccc;
+    transition: color 0.3s ease;
+}
+
+.star:hover,
+.star.active {
+    color: #f39c12;
+}
+
+#rating-message {
+    text-align: center;
+    margin-top: 10px;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+/* General Body Styling */
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #f5e0c3;
+    color: #4d3e33;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #3b2c2c;
+    color: #f9d342;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 0 20px;
+    height: 60px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 2em;
+    color: #3b2c2c;
+}
+
+/* Login Page Specific Styling */
+form {
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input[type="text"],
+input[type="password"],
+button[type="submit"] {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    background-color: #f9f9f9;
+    color: #4d3e33;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    outline: none;
+    border-color: #3b2c2c;
+    box-shadow: 0 0 5px rgba(59, 44, 44, 0.5);
+}
+
+/* Button Styling */
+button[type="submit"] {
+    background-color: #3b2c2c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #f9d342;
+    color: #3b2c2c;
+    transform: translateY(-2px);
+}
+
+button[type="submit"]:active {
+    transform: translateY(1px);
+}
+
+/* General Button Styling */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+/* Intro Section */
+.intro {
+    text-align: center;
+    margin: 50px 0;
+}
+
+/* Search Section */
+.search {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.search input {
+    padding: 10px;
+    font-size: 1em;
+}
+
+.search button {
+    padding: 10px;
+    font-size: 1em;
+    background-color: #3b2c2c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Products Section */
+.products {
+    text-align: center;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.product-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.product-item:hover {
+    transform: scale(1.05);
+}
+
+.product-item img {
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #3b2c2c;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+    position: relative;
+    bottom: 0;
+    width: 100%; /* Ensure the footer spans the entire width */
+}
+
+/* Star Rating Section */
+.star-rating {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.star {
+    font-size: 2em;
+    cursor: pointer;
+    color: #ccc;
+    transition: color 0.3s ease;
+}
+
+.star:hover,
+.star.active {
+    color: #f39c12;
+}
+
+#rating-message {
+    text-align: center;
+    margin-top: 10px;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+.container {
+    min-height: 100%; /* Make sure container fills at least the full viewport height */
+    display: flex;
+    flex-direction: column;
+}
