@@ -8,7 +8,7 @@ This repository contains official **source code** and **writeups** for challenge
 
 | Metric                                  | Value |
 | --------------------------------------- | ----- |
-| Total Registered Players                | 1464  |
+| Total Registered Players                | 3243  |
 | Total Registered Teams                  | 1464  |
 | Teams that solve at least one challenge | 393   |
 | Total Number of Challenges              | 43    |
